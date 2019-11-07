@@ -1,0 +1,532 @@
+C:\Users\DK\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\DK\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\바탕화면 프로그램\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK Vision\Desktop\DKLeadFrameInspection_20150517\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150517_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+E:\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+E:\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+E:\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+E:\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+E:\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+E:\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150527_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-S-547E\Desktop\DKLeadFrameInspection_20150529_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK-Jun\Desktop\JungJin\DKLeadFrameInspection_201506\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK-Jun\Desktop\JungJin\DKLeadFrameInspection_201506\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK-Jun\Desktop\JungJin\DKLeadFrameInspection_201506\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-Jun\Desktop\JungJin\DKLeadFrameInspection_201506\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\DK-Jun\Desktop\JungJin\DKLeadFrameInspection_201506\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-Jun\Desktop\JungJin\DKLeadFrameInspection_201506\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\DKLeadFrameInspection_20150603_DH\Vision Client\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK\Desktop\DKProbePin Inspection 20151007\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK\Desktop\DKProbePin Inspection 20151007\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK\Desktop\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK\Desktop\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\DK\Desktop\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK\Desktop\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+E:\DKProbePin Inspection 20151007\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+E:\DKProbePin Inspection 20151007\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+E:\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\ResolveAssemblyReference.cache
+E:\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+E:\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\GenerateResource.read.1.tlog
+E:\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\GenerateResource.write.1.tlog
+E:\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+E:\DKProbePin Inspection 20151007\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\DKDLL\WindowKeyPad.dll
+D:\Vision SoftWare\DKDLL\WindowKeyPad.pdb
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009_J\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009_J\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009_J\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\DK-Jun\Desktop\이다흰\이다흰 2\DKProbePin Inspection 20151009\DKProbePin Inspection 20151009_J\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\피티앤케이\Desktop\DKProbePin Inspection\DKProbePin Inspection 20151024_J\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\피티앤케이\Desktop\DKProbePin Inspection\DKProbePin Inspection 20151024_J\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\피티앤케이\Desktop\DKProbePin Inspection\DKProbePin Inspection 20151024_J\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\피티앤케이\Desktop\DKProbePin Inspection\DKProbePin Inspection 20151024_J\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151106\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151106\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151106\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151106\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151106\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109_J\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109_J\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109_J\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109_J\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SoftWare\PT&K\DKProbePin Inspection 20151109_J\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision Program\DKDLL\WindowKeyPad.dll
+D:\Vision Program\DKDLL\WindowKeyPad.pdb
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\KP Tray Tap OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\LJH\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\Administrator\Desktop\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170602\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\VisionProgram\TrimFormInspection\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2019_190919\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2019_190924\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.pdb

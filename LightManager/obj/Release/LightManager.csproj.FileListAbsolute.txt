@@ -1,0 +1,62 @@
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\bin\Release\LightManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\bin\Release\LightManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Release\LightManager.LightWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Release\LightManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Release\LightManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Release\LightManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Release\LightManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Release\LightManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Release\LightManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Release\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Release\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Release\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Release\LightManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Release\LightManager.LightWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Release\LightManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Release\LightManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Release\LightManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Release\LightManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\bin\Release\LightManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\bin\Release\LightManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\obj\Release\LightManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\obj\Release\LightManager.LightWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\obj\Release\LightManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\obj\Release\LightManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\obj\Release\LightManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LightManager\obj\Release\LightManager.pdb
+C:\Data\KPVisionInspection2019_190919\LightManager\bin\Release\LightManager.dll
+C:\Data\KPVisionInspection2019_190919\LightManager\bin\Release\LightManager.pdb
+C:\Data\KPVisionInspection2019_190919\LightManager\bin\Release\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\LightManager\bin\Release\log4net.dll
+C:\Data\KPVisionInspection2019_190919\LightManager\bin\Release\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\LightManager\obj\Release\LightManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\LightManager\obj\Release\LightManager.LightWindow.resources
+C:\Data\KPVisionInspection2019_190919\LightManager\obj\Release\LightManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\LightManager\obj\Release\LightManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\LightManager\obj\Release\LightManager.dll
+C:\Data\KPVisionInspection2019_190919\LightManager\obj\Release\LightManager.pdb
+C:\Data\KPVisionInspection2019_190924\LightManager\bin\Release\LightManager.dll
+C:\Data\KPVisionInspection2019_190924\LightManager\bin\Release\LightManager.pdb
+C:\Data\KPVisionInspection2019_190924\LightManager\bin\Release\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\LightManager\bin\Release\log4net.dll
+C:\Data\KPVisionInspection2019_190924\LightManager\bin\Release\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\LightManager\obj\Release\LightManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\LightManager\obj\Release\LightManager.LightWindow.resources
+C:\Data\KPVisionInspection2019_190924\LightManager\obj\Release\LightManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\LightManager\obj\Release\LightManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\LightManager\obj\Release\LightManager.dll
+C:\Data\KPVisionInspection2019_190924\LightManager\obj\Release\LightManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\bin\Release\LightManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\bin\Release\LightManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\obj\Release\LightManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\obj\Release\LightManager.LightWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\obj\Release\LightManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\obj\Release\LightManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\obj\Release\LightManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\LightManager\obj\Release\LightManager.pdb

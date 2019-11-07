@@ -1,0 +1,228 @@
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\stdole.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\TrimFormInspection\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\TrimFormInspection\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\ParameterManager\obj\Debug\ParameterManager.dll
+D:\VisionProgram\TrimFormInspection\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\obj\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190919\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190924\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\stdole.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspection2020\ParameterManager\obj\Debug\ParameterManager.pdb

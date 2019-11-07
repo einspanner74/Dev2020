@@ -1,0 +1,714 @@
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\MapDataManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\CustomControl.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\obj\Debug\MapDataManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\MapDataManager.dll.config
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\MapDataManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\obj\Debug\MapDataManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\MapDataManager.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\stdole.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\TrimFormInspection\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\VisionProgram\TrimFormInspection\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\VisionProgram\TrimFormInspection\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\MapDataManager\obj\Debug\MapDataManager.dll
+D:\VisionProgram\TrimFormInspection\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\MapDataManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\MapDataManager.dll.config
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\MapDataManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\MapDataManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\CustomControl.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\CustomControl.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\stdole.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\obj\Debug\MapDataManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\obj\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\MapDataManager\obj\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\MapDataManager.dll.config
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190919\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+C:\Data\KPVisionInspection2019_190919\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\MapDataManager\obj\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2019_190919\MapDataManager\obj\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\MapDataManager.dll.config
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190924\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+C:\Data\KPVisionInspection2019_190924\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\MapDataManager\obj\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2019_190924\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\obj\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll.config
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+C:\Data\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll.config
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\stdole.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\obj\Debug\MapDataManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\MapDataManager\obj\Debug\MapDataManager.pdb
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll.config
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\MapDataManager.pdb
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.MapDataWindow.resources
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.dll
+D:\VisionProgram\KPVisionInspection2020\MapDataManager\obj\Debug\MapDataManager.pdb

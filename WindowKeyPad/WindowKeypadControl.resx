@@ -1,0 +1,1917 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="labelTitle.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="labelTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>나눔바른고딕, 8.999999pt, style=Bold</value>
+  </data>
+  <data name="labelTitle.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="labelTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>679, 30</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="labelTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>147</value>
+  </data>
+  <data name="labelTitle.Text" xml:space="preserve">
+    <value> KeyBoard Window</value>
+  </data>
+  <data name="labelTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;labelTitle.Name" xml:space="preserve">
+    <value>labelTitle</value>
+  </data>
+  <data name="&gt;&gt;labelTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelTitle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelTitle.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnPasswordChange.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btnPasswordChange.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnPasswordChange.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPasswordChange.Location" type="System.Drawing.Point, System.Drawing">
+    <value>634, 230</value>
+  </data>
+  <data name="btnPasswordChange.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnPasswordChange.TabIndex" type="System.Int32, mscorlib">
+    <value>206</value>
+  </data>
+  <data name="&gt;&gt;btnPasswordChange.Name" xml:space="preserve">
+    <value>btnPasswordChange</value>
+  </data>
+  <data name="&gt;&gt;btnPasswordChange.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPasswordChange.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnPasswordChange.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="labelKeyPadCharactor.Font" type="System.Drawing.Font, System.Drawing">
+    <value>나눔바른고딕, 11.999999pt, style=Bold</value>
+  </data>
+  <data name="labelKeyPadCharactor.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelKeyPadCharactor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="labelKeyPadCharactor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>671, 40</value>
+  </data>
+  <data name="labelKeyPadCharactor.TabIndex" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="labelKeyPadCharactor.Text" xml:space="preserve">
+    <value>Password ********</value>
+  </data>
+  <data name="labelKeyPadCharactor.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;labelKeyPadCharactor.Name" xml:space="preserve">
+    <value>labelKeyPadCharactor</value>
+  </data>
+  <data name="&gt;&gt;labelKeyPadCharactor.Type" xml:space="preserve">
+    <value>CustomControl.GradientLabel, CustomControl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;labelKeyPadCharactor.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;labelKeyPadCharactor.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnCancel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnCancel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnCancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 230</value>
+  </data>
+  <data name="btnCancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 40</value>
+  </data>
+  <data name="btnCancel.TabIndex" type="System.Int32, mscorlib">
+    <value>204</value>
+  </data>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.Name" xml:space="preserve">
+    <value>btnCancel</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnCancel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnOK.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnOK.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnOK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>202, 230</value>
+  </data>
+  <data name="btnOK.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 40</value>
+  </data>
+  <data name="btnOK.TabIndex" type="System.Int32, mscorlib">
+    <value>149</value>
+  </data>
+  <data name="btnOK.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="&gt;&gt;btnOK.Name" xml:space="preserve">
+    <value>btnOK</value>
+  </data>
+  <data name="&gt;&gt;btnOK.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnOK.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnOK.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnCaps.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnCaps.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnCaps.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 138</value>
+  </data>
+  <data name="btnCaps.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 40</value>
+  </data>
+  <data name="btnCaps.TabIndex" type="System.Int32, mscorlib">
+    <value>202</value>
+  </data>
+  <data name="&gt;&gt;btnCaps.Name" xml:space="preserve">
+    <value>btnCaps</value>
+  </data>
+  <data name="&gt;&gt;btnCaps.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCaps.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnCaps.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button51.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="button51.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button51.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 92</value>
+  </data>
+  <data name="button51.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 40</value>
+  </data>
+  <data name="button51.TabIndex" type="System.Int32, mscorlib">
+    <value>201</value>
+  </data>
+  <data name="&gt;&gt;button51.Name" xml:space="preserve">
+    <value>button51</value>
+  </data>
+  <data name="&gt;&gt;button51.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button51.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;button51.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnESC.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnESC.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnESC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 46</value>
+  </data>
+  <data name="btnESC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnESC.TabIndex" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="btnESC.Text" xml:space="preserve">
+    <value>ESC</value>
+  </data>
+  <data name="&gt;&gt;btnESC.Name" xml:space="preserve">
+    <value>btnESC</value>
+  </data>
+  <data name="&gt;&gt;btnESC.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnESC.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnESC.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnShift.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnShift.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnShift.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 184</value>
+  </data>
+  <data name="btnShift.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 40</value>
+  </data>
+  <data name="btnShift.TabIndex" type="System.Int32, mscorlib">
+    <value>199</value>
+  </data>
+  <data name="btnShift.Text" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="&gt;&gt;btnShift.Name" xml:space="preserve">
+    <value>btnShift</value>
+  </data>
+  <data name="&gt;&gt;btnShift.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnShift.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnShift.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnShift2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnShift2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnShift2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 184</value>
+  </data>
+  <data name="btnShift2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 40</value>
+  </data>
+  <data name="btnShift2.TabIndex" type="System.Int32, mscorlib">
+    <value>198</value>
+  </data>
+  <data name="btnShift2.Text" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="&gt;&gt;btnShift2.Name" xml:space="preserve">
+    <value>btnShift2</value>
+  </data>
+  <data name="&gt;&gt;btnShift2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnShift2.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnShift2.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnEnter.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnEnter.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnEnter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>601, 138</value>
+  </data>
+  <data name="btnEnter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 40</value>
+  </data>
+  <data name="btnEnter.TabIndex" type="System.Int32, mscorlib">
+    <value>197</value>
+  </data>
+  <data name="btnEnter.Text" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="&gt;&gt;btnEnter.Name" xml:space="preserve">
+    <value>btnEnter</value>
+  </data>
+  <data name="&gt;&gt;btnEnter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEnter.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnEnter.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnWon.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnWon.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnWon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>634, 92</value>
+  </data>
+  <data name="btnWon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnWon.TabIndex" type="System.Int32, mscorlib">
+    <value>196</value>
+  </data>
+  <data name="btnWon.Text" xml:space="preserve">
+    <value>\</value>
+  </data>
+  <data name="&gt;&gt;btnWon.Name" xml:space="preserve">
+    <value>btnWon</value>
+  </data>
+  <data name="&gt;&gt;btnWon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnWon.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnWon.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="btnBack.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnBack.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnBack.Location" type="System.Drawing.Point, System.Drawing">
+    <value>601, 46</value>
+  </data>
+  <data name="btnBack.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 40</value>
+  </data>
+  <data name="btnBack.TabIndex" type="System.Int32, mscorlib">
+    <value>195</value>
+  </data>
+  <data name="btnBack.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;btnBack.Name" xml:space="preserve">
+    <value>btnBack</value>
+  </data>
+  <data name="&gt;&gt;btnBack.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBack.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnBack.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btnEqual.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnEqual.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnEqual.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 46</value>
+  </data>
+  <data name="btnEqual.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnEqual.TabIndex" type="System.Int32, mscorlib">
+    <value>194</value>
+  </data>
+  <data name="btnEqual.Text" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="&gt;&gt;btnEqual.Name" xml:space="preserve">
+    <value>btnEqual</value>
+  </data>
+  <data name="&gt;&gt;btnEqual.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEqual.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnEqual.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btnMinus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnMinus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnMinus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>509, 46</value>
+  </data>
+  <data name="btnMinus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnMinus.TabIndex" type="System.Int32, mscorlib">
+    <value>193</value>
+  </data>
+  <data name="btnMinus.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;btnMinus.Name" xml:space="preserve">
+    <value>btnMinus</value>
+  </data>
+  <data name="&gt;&gt;btnMinus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMinus.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnMinus.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btn0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn0.Location" type="System.Drawing.Point, System.Drawing">
+    <value>463, 46</value>
+  </data>
+  <data name="btn0.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn0.TabIndex" type="System.Int32, mscorlib">
+    <value>192</value>
+  </data>
+  <data name="btn0.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn0.Name" xml:space="preserve">
+    <value>btn0</value>
+  </data>
+  <data name="&gt;&gt;btn0.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn0.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn0.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="btn9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, 46</value>
+  </data>
+  <data name="btn9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn9.TabIndex" type="System.Int32, mscorlib">
+    <value>191</value>
+  </data>
+  <data name="btn9.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;btn9.Name" xml:space="preserve">
+    <value>btn9</value>
+  </data>
+  <data name="&gt;&gt;btn9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn9.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn9.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="btn8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>371, 46</value>
+  </data>
+  <data name="btn8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn8.TabIndex" type="System.Int32, mscorlib">
+    <value>190</value>
+  </data>
+  <data name="btn8.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btn8.Name" xml:space="preserve">
+    <value>btn8</value>
+  </data>
+  <data name="&gt;&gt;btn8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn8.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn8.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="btn7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 46</value>
+  </data>
+  <data name="btn7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn7.TabIndex" type="System.Int32, mscorlib">
+    <value>189</value>
+  </data>
+  <data name="btn7.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn7.Name" xml:space="preserve">
+    <value>btn7</value>
+  </data>
+  <data name="&gt;&gt;btn7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn7.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn7.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="btn6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>279, 46</value>
+  </data>
+  <data name="btn6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn6.TabIndex" type="System.Int32, mscorlib">
+    <value>188</value>
+  </data>
+  <data name="btn6.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btn6.Name" xml:space="preserve">
+    <value>btn6</value>
+  </data>
+  <data name="&gt;&gt;btn6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn6.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn6.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="btn5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>233, 46</value>
+  </data>
+  <data name="btn5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn5.TabIndex" type="System.Int32, mscorlib">
+    <value>187</value>
+  </data>
+  <data name="btn5.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn5.Name" xml:space="preserve">
+    <value>btn5</value>
+  </data>
+  <data name="&gt;&gt;btn5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn5.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn5.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="btn4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 46</value>
+  </data>
+  <data name="btn4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn4.TabIndex" type="System.Int32, mscorlib">
+    <value>186</value>
+  </data>
+  <data name="btn4.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn4.Name" xml:space="preserve">
+    <value>btn4</value>
+  </data>
+  <data name="&gt;&gt;btn4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn4.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn4.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="btn3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>141, 46</value>
+  </data>
+  <data name="btn3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn3.TabIndex" type="System.Int32, mscorlib">
+    <value>185</value>
+  </data>
+  <data name="btn3.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btn3.Name" xml:space="preserve">
+    <value>btn3</value>
+  </data>
+  <data name="&gt;&gt;btn3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn3.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn3.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="btn2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 46</value>
+  </data>
+  <data name="btn2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn2.TabIndex" type="System.Int32, mscorlib">
+    <value>184</value>
+  </data>
+  <data name="btn2.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btn2.Name" xml:space="preserve">
+    <value>btn2</value>
+  </data>
+  <data name="&gt;&gt;btn2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn2.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn2.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="btn1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btn1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 46</value>
+  </data>
+  <data name="btn1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btn1.TabIndex" type="System.Int32, mscorlib">
+    <value>183</value>
+  </data>
+  <data name="btn1.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn1.Name" xml:space="preserve">
+    <value>btn1</value>
+  </data>
+  <data name="&gt;&gt;btn1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn1.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btn1.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="btnRightBlacket.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnRightBlacket.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnRightBlacket.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 92</value>
+  </data>
+  <data name="btnRightBlacket.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnRightBlacket.TabIndex" type="System.Int32, mscorlib">
+    <value>182</value>
+  </data>
+  <data name="btnRightBlacket.Text" xml:space="preserve">
+    <value>]</value>
+  </data>
+  <data name="&gt;&gt;btnRightBlacket.Name" xml:space="preserve">
+    <value>btnRightBlacket</value>
+  </data>
+  <data name="&gt;&gt;btnRightBlacket.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRightBlacket.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnRightBlacket.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="btnLeftBlacket.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnLeftBlacket.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnLeftBlacket.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 92</value>
+  </data>
+  <data name="btnLeftBlacket.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnLeftBlacket.TabIndex" type="System.Int32, mscorlib">
+    <value>181</value>
+  </data>
+  <data name="btnLeftBlacket.Text" xml:space="preserve">
+    <value>[</value>
+  </data>
+  <data name="&gt;&gt;btnLeftBlacket.Name" xml:space="preserve">
+    <value>btnLeftBlacket</value>
+  </data>
+  <data name="&gt;&gt;btnLeftBlacket.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLeftBlacket.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnLeftBlacket.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="btnP.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnP.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnP.Location" type="System.Drawing.Point, System.Drawing">
+    <value>496, 92</value>
+  </data>
+  <data name="btnP.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnP.TabIndex" type="System.Int32, mscorlib">
+    <value>180</value>
+  </data>
+  <data name="btnP.Text" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="&gt;&gt;btnP.Name" xml:space="preserve">
+    <value>btnP</value>
+  </data>
+  <data name="&gt;&gt;btnP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnP.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnP.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="btnO.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnO.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnO.Location" type="System.Drawing.Point, System.Drawing">
+    <value>450, 92</value>
+  </data>
+  <data name="btnO.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnO.TabIndex" type="System.Int32, mscorlib">
+    <value>179</value>
+  </data>
+  <data name="btnO.Text" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="&gt;&gt;btnO.Name" xml:space="preserve">
+    <value>btnO</value>
+  </data>
+  <data name="&gt;&gt;btnO.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnO.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnO.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="btnI.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnI.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnI.Location" type="System.Drawing.Point, System.Drawing">
+    <value>404, 92</value>
+  </data>
+  <data name="btnI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnI.TabIndex" type="System.Int32, mscorlib">
+    <value>178</value>
+  </data>
+  <data name="btnI.Text" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="&gt;&gt;btnI.Name" xml:space="preserve">
+    <value>btnI</value>
+  </data>
+  <data name="&gt;&gt;btnI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnI.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnI.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="btnU.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnU.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnU.Location" type="System.Drawing.Point, System.Drawing">
+    <value>358, 92</value>
+  </data>
+  <data name="btnU.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnU.TabIndex" type="System.Int32, mscorlib">
+    <value>177</value>
+  </data>
+  <data name="btnU.Text" xml:space="preserve">
+    <value>U</value>
+  </data>
+  <data name="&gt;&gt;btnU.Name" xml:space="preserve">
+    <value>btnU</value>
+  </data>
+  <data name="&gt;&gt;btnU.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnU.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnU.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="btnY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnY.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 92</value>
+  </data>
+  <data name="btnY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnY.TabIndex" type="System.Int32, mscorlib">
+    <value>176</value>
+  </data>
+  <data name="btnY.Text" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="&gt;&gt;btnY.Name" xml:space="preserve">
+    <value>btnY</value>
+  </data>
+  <data name="&gt;&gt;btnY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnY.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnY.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="btnT.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnT.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnT.Location" type="System.Drawing.Point, System.Drawing">
+    <value>266, 92</value>
+  </data>
+  <data name="btnT.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnT.TabIndex" type="System.Int32, mscorlib">
+    <value>175</value>
+  </data>
+  <data name="btnT.Text" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="&gt;&gt;btnT.Name" xml:space="preserve">
+    <value>btnT</value>
+  </data>
+  <data name="&gt;&gt;btnT.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnT.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnT.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="btnR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnR.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>220, 92</value>
+  </data>
+  <data name="btnR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnR.TabIndex" type="System.Int32, mscorlib">
+    <value>174</value>
+  </data>
+  <data name="btnR.Text" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="&gt;&gt;btnR.Name" xml:space="preserve">
+    <value>btnR</value>
+  </data>
+  <data name="&gt;&gt;btnR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnR.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnR.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="btnE.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnE.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 92</value>
+  </data>
+  <data name="btnE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnE.TabIndex" type="System.Int32, mscorlib">
+    <value>173</value>
+  </data>
+  <data name="btnE.Text" xml:space="preserve">
+    <value>E</value>
+  </data>
+  <data name="&gt;&gt;btnE.Name" xml:space="preserve">
+    <value>btnE</value>
+  </data>
+  <data name="&gt;&gt;btnE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnE.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnE.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="btnW.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnW.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnW.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 92</value>
+  </data>
+  <data name="btnW.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnW.TabIndex" type="System.Int32, mscorlib">
+    <value>172</value>
+  </data>
+  <data name="btnW.Text" xml:space="preserve">
+    <value>W</value>
+  </data>
+  <data name="&gt;&gt;btnW.Name" xml:space="preserve">
+    <value>btnW</value>
+  </data>
+  <data name="&gt;&gt;btnW.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnW.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnW.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="btnQ.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnQ.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnQ.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 92</value>
+  </data>
+  <data name="btnQ.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnQ.TabIndex" type="System.Int32, mscorlib">
+    <value>171</value>
+  </data>
+  <data name="btnQ.Text" xml:space="preserve">
+    <value>Q</value>
+  </data>
+  <data name="&gt;&gt;btnQ.Name" xml:space="preserve">
+    <value>btnQ</value>
+  </data>
+  <data name="&gt;&gt;btnQ.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnQ.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnQ.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="btnSlash.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnSlash.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSlash.Location" type="System.Drawing.Point, System.Drawing">
+    <value>542, 184</value>
+  </data>
+  <data name="btnSlash.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnSlash.TabIndex" type="System.Int32, mscorlib">
+    <value>170</value>
+  </data>
+  <data name="btnSlash.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;btnSlash.Name" xml:space="preserve">
+    <value>btnSlash</value>
+  </data>
+  <data name="&gt;&gt;btnSlash.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSlash.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnSlash.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="btnPoint.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnPoint.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPoint.Location" type="System.Drawing.Point, System.Drawing">
+    <value>496, 184</value>
+  </data>
+  <data name="btnPoint.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnPoint.TabIndex" type="System.Int32, mscorlib">
+    <value>169</value>
+  </data>
+  <data name="btnPoint.Text" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="&gt;&gt;btnPoint.Name" xml:space="preserve">
+    <value>btnPoint</value>
+  </data>
+  <data name="&gt;&gt;btnPoint.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPoint.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnPoint.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="btnComma.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnComma.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnComma.Location" type="System.Drawing.Point, System.Drawing">
+    <value>450, 184</value>
+  </data>
+  <data name="btnComma.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnComma.TabIndex" type="System.Int32, mscorlib">
+    <value>168</value>
+  </data>
+  <data name="btnComma.Text" xml:space="preserve">
+    <value>,</value>
+  </data>
+  <data name="&gt;&gt;btnComma.Name" xml:space="preserve">
+    <value>btnComma</value>
+  </data>
+  <data name="&gt;&gt;btnComma.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnComma.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnComma.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="btnM.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnM.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>404, 184</value>
+  </data>
+  <data name="btnM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnM.TabIndex" type="System.Int32, mscorlib">
+    <value>167</value>
+  </data>
+  <data name="btnM.Text" xml:space="preserve">
+    <value>M</value>
+  </data>
+  <data name="&gt;&gt;btnM.Name" xml:space="preserve">
+    <value>btnM</value>
+  </data>
+  <data name="&gt;&gt;btnM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnM.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnM.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="btnN.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnN.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>358, 184</value>
+  </data>
+  <data name="btnN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnN.TabIndex" type="System.Int32, mscorlib">
+    <value>166</value>
+  </data>
+  <data name="btnN.Text" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="&gt;&gt;btnN.Name" xml:space="preserve">
+    <value>btnN</value>
+  </data>
+  <data name="&gt;&gt;btnN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnN.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnN.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="btnB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnB.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 184</value>
+  </data>
+  <data name="btnB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnB.TabIndex" type="System.Int32, mscorlib">
+    <value>165</value>
+  </data>
+  <data name="btnB.Text" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="&gt;&gt;btnB.Name" xml:space="preserve">
+    <value>btnB</value>
+  </data>
+  <data name="&gt;&gt;btnB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnB.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnB.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="btnV.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnV.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnV.Location" type="System.Drawing.Point, System.Drawing">
+    <value>266, 184</value>
+  </data>
+  <data name="btnV.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnV.TabIndex" type="System.Int32, mscorlib">
+    <value>164</value>
+  </data>
+  <data name="btnV.Text" xml:space="preserve">
+    <value>V</value>
+  </data>
+  <data name="&gt;&gt;btnV.Name" xml:space="preserve">
+    <value>btnV</value>
+  </data>
+  <data name="&gt;&gt;btnV.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnV.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnV.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <data name="btnC.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnC.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>220, 184</value>
+  </data>
+  <data name="btnC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnC.TabIndex" type="System.Int32, mscorlib">
+    <value>163</value>
+  </data>
+  <data name="btnC.Text" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="&gt;&gt;btnC.Name" xml:space="preserve">
+    <value>btnC</value>
+  </data>
+  <data name="&gt;&gt;btnC.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnC.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnC.ZOrder" xml:space="preserve">
+    <value>43</value>
+  </data>
+  <data name="btnX.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnX.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnX.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 184</value>
+  </data>
+  <data name="btnX.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnX.TabIndex" type="System.Int32, mscorlib">
+    <value>162</value>
+  </data>
+  <data name="btnX.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;btnX.Name" xml:space="preserve">
+    <value>btnX</value>
+  </data>
+  <data name="&gt;&gt;btnX.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnX.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnX.ZOrder" xml:space="preserve">
+    <value>44</value>
+  </data>
+  <data name="btnZ.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnZ.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnZ.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 184</value>
+  </data>
+  <data name="btnZ.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnZ.TabIndex" type="System.Int32, mscorlib">
+    <value>161</value>
+  </data>
+  <data name="btnZ.Text" xml:space="preserve">
+    <value>Z</value>
+  </data>
+  <data name="&gt;&gt;btnZ.Name" xml:space="preserve">
+    <value>btnZ</value>
+  </data>
+  <data name="&gt;&gt;btnZ.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnZ.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnZ.ZOrder" xml:space="preserve">
+    <value>45</value>
+  </data>
+  <data name="btnQuotation.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnQuotation.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnQuotation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 138</value>
+  </data>
+  <data name="btnQuotation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnQuotation.TabIndex" type="System.Int32, mscorlib">
+    <value>160</value>
+  </data>
+  <data name="btnQuotation.Text" xml:space="preserve">
+    <value>'</value>
+  </data>
+  <data name="&gt;&gt;btnQuotation.Name" xml:space="preserve">
+    <value>btnQuotation</value>
+  </data>
+  <data name="&gt;&gt;btnQuotation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnQuotation.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnQuotation.ZOrder" xml:space="preserve">
+    <value>46</value>
+  </data>
+  <data name="btnSemi.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnSemi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSemi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>509, 138</value>
+  </data>
+  <data name="btnSemi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnSemi.TabIndex" type="System.Int32, mscorlib">
+    <value>159</value>
+  </data>
+  <data name="btnSemi.Text" xml:space="preserve">
+    <value>;</value>
+  </data>
+  <data name="&gt;&gt;btnSemi.Name" xml:space="preserve">
+    <value>btnSemi</value>
+  </data>
+  <data name="&gt;&gt;btnSemi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSemi.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnSemi.ZOrder" xml:space="preserve">
+    <value>47</value>
+  </data>
+  <data name="btnL.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnL.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>463, 138</value>
+  </data>
+  <data name="btnL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnL.TabIndex" type="System.Int32, mscorlib">
+    <value>158</value>
+  </data>
+  <data name="btnL.Text" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="&gt;&gt;btnL.Name" xml:space="preserve">
+    <value>btnL</value>
+  </data>
+  <data name="&gt;&gt;btnL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnL.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnL.ZOrder" xml:space="preserve">
+    <value>48</value>
+  </data>
+  <data name="btnK.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnK.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, 138</value>
+  </data>
+  <data name="btnK.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnK.TabIndex" type="System.Int32, mscorlib">
+    <value>157</value>
+  </data>
+  <data name="btnK.Text" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="&gt;&gt;btnK.Name" xml:space="preserve">
+    <value>btnK</value>
+  </data>
+  <data name="&gt;&gt;btnK.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnK.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnK.ZOrder" xml:space="preserve">
+    <value>49</value>
+  </data>
+  <data name="btnJ.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnJ.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnJ.Location" type="System.Drawing.Point, System.Drawing">
+    <value>371, 138</value>
+  </data>
+  <data name="btnJ.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnJ.TabIndex" type="System.Int32, mscorlib">
+    <value>156</value>
+  </data>
+  <data name="btnJ.Text" xml:space="preserve">
+    <value>J</value>
+  </data>
+  <data name="&gt;&gt;btnJ.Name" xml:space="preserve">
+    <value>btnJ</value>
+  </data>
+  <data name="&gt;&gt;btnJ.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnJ.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnJ.ZOrder" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <data name="btnH.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnH.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnH.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 138</value>
+  </data>
+  <data name="btnH.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnH.TabIndex" type="System.Int32, mscorlib">
+    <value>155</value>
+  </data>
+  <data name="btnH.Text" xml:space="preserve">
+    <value>H</value>
+  </data>
+  <data name="&gt;&gt;btnH.Name" xml:space="preserve">
+    <value>btnH</value>
+  </data>
+  <data name="&gt;&gt;btnH.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnH.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnH.ZOrder" xml:space="preserve">
+    <value>51</value>
+  </data>
+  <data name="btnG.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnG.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnG.Location" type="System.Drawing.Point, System.Drawing">
+    <value>279, 138</value>
+  </data>
+  <data name="btnG.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnG.TabIndex" type="System.Int32, mscorlib">
+    <value>154</value>
+  </data>
+  <data name="btnG.Text" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="&gt;&gt;btnG.Name" xml:space="preserve">
+    <value>btnG</value>
+  </data>
+  <data name="&gt;&gt;btnG.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnG.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnG.ZOrder" xml:space="preserve">
+    <value>52</value>
+  </data>
+  <data name="btnF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnF.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnF.Location" type="System.Drawing.Point, System.Drawing">
+    <value>233, 138</value>
+  </data>
+  <data name="btnF.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnF.TabIndex" type="System.Int32, mscorlib">
+    <value>153</value>
+  </data>
+  <data name="btnF.Text" xml:space="preserve">
+    <value>F</value>
+  </data>
+  <data name="&gt;&gt;btnF.Name" xml:space="preserve">
+    <value>btnF</value>
+  </data>
+  <data name="&gt;&gt;btnF.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnF.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnF.ZOrder" xml:space="preserve">
+    <value>53</value>
+  </data>
+  <data name="btnD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnD.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 138</value>
+  </data>
+  <data name="btnD.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnD.TabIndex" type="System.Int32, mscorlib">
+    <value>152</value>
+  </data>
+  <data name="btnD.Text" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="&gt;&gt;btnD.Name" xml:space="preserve">
+    <value>btnD</value>
+  </data>
+  <data name="&gt;&gt;btnD.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnD.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnD.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <data name="btnS.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnS.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>141, 138</value>
+  </data>
+  <data name="btnS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnS.TabIndex" type="System.Int32, mscorlib">
+    <value>151</value>
+  </data>
+  <data name="btnS.Text" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="&gt;&gt;btnS.Name" xml:space="preserve">
+    <value>btnS</value>
+  </data>
+  <data name="&gt;&gt;btnS.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnS.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnS.ZOrder" xml:space="preserve">
+    <value>55</value>
+  </data>
+  <data name="btnA.Font" type="System.Drawing.Font, System.Drawing">
+    <value>맑은 고딕, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="btnA.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 138</value>
+  </data>
+  <data name="btnA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="btnA.TabIndex" type="System.Int32, mscorlib">
+    <value>203</value>
+  </data>
+  <data name="btnA.Text" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="&gt;&gt;btnA.Name" xml:space="preserve">
+    <value>btnA</value>
+  </data>
+  <data name="&gt;&gt;btnA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnA.Parent" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;btnA.ZOrder" xml:space="preserve">
+    <value>56</value>
+  </data>
+  <data name="panelMain.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="panelMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 33</value>
+  </data>
+  <data name="panelMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>679, 274</value>
+  </data>
+  <data name="panelMain.TabIndex" type="System.Int32, mscorlib">
+    <value>149</value>
+  </data>
+  <data name="&gt;&gt;panelMain.Name" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;panelMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelMain.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelMain.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 14</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>679, 307</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>나눔바른고딕, 8.999999pt</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>입력 키보드</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>WindowKeypadControl</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

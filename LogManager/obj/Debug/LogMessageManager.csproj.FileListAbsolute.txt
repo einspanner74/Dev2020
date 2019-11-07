@@ -1,0 +1,110 @@
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\bin\Debug\LogMessageManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\bin\Debug\LogMessageManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\LogManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\LogManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\LogManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\LogManager\obj\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\LogManager\obj\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\LogManager\obj\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\LogManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\LogManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\LogManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\LogManager\obj\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\LogManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\LogManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\LogManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\LogManager\obj\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.LogSettingWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\LogManager\obj\Debug\LogMessageManager.pdb

@@ -1,0 +1,183 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+using Cognex.VisionPro;
+
+namespace KPDisplay
+{
+    public partial class KPCogDisplayControl: UserControl
+    {
+        CogRectangleAffine InteractiveRectAffineGraphic = new CogRectangleAffine();
+        CogRectangleAffine StaticRectAffineGraphic = new CogRectangleAffine();
+        CogPointMarker InteractivePointMarker = new CogPointMarker();
+        CogPointMarker StaticPointMarker = new CogPointMarker();
+
+        public KPCogDisplayControl()
+        {
+            InitializeComponent();
+            cogDisplayStatusBarV2.Display = kCogDisplay;
+        }
+
+        #region Display Clear
+        /// <summary>
+        /// Clear Display
+        /// </summary>
+        public void ClearDisplay()
+        {
+            kCogDisplay.ClearDisplay();
+        }
+
+        /// <summary>
+        /// Groupname Clear Display
+        /// </summary>
+        /// <param name="_groupName"></param>
+        public void ClearDisplay(string _groupName)
+        {
+            kCogDisplay.ClearDisplay(_groupName);
+        }
+        #endregion Display Clear
+
+        #region Draw Shape Display Window
+        /// <summary>
+        /// Display에 그리기
+        /// </summary>
+        /// <param name="_cogRectAffine">CogRectangleAffine 영역</param>
+        /// <param name="_Interactive">Interactive = true, Static = false</param>
+        public void DrawShape(CogRectangleAffine _cogRectAffine, string _groupName, CogColorConstants _color, bool _Interactive)
+        {
+            if (_Interactive == true) DrawInterActiveShape(_cogRectAffine, _groupName, _color);
+            else DrawStaticShape(_cogRectAffine, _groupName, _color);
+        }
+
+        /// <summary>
+        /// Display에 그리기
+        /// </summary>
+        /// <param name="_cogRectAffine">CogRectangleAffine 영역</param>
+        /// <param name="_Interactive">Interactive = true, Static = false</param>
+        public void DrawShape(CogPointMarker _cogPointMarker, string _groupName, CogColorConstants _color, bool _Interactive)
+        {
+            if (_Interactive == true) DrawInterActiveShape(_cogPointMarker, _groupName, _color);
+            else DrawStaticShape(_cogPointMarker, _groupName, _color);
+        }
+
+        /// <summary>
+        /// 수정이 가능한 도형 그리기
+        /// </summary>
+        /// <param name="_cogRectAffine">RectAffine 객체</param>
+        /// <param name="_groupName">그려지는 그룹명</param>
+        /// <param name="_color">색상</param>
+        public void DrawInterActiveShape(CogRectangleAffine _cogRectAffine, string _groupName, CogColorConstants _color)
+        {
+            InteractiveRectAffineGraphic = new CogRectangleAffine();
+            InteractiveRectAffineGraphic = _cogRectAffine;
+            InteractiveRectAffineGraphic.Interactive = true;
+            InteractiveRectAffineGraphic.Color = _color;
+            InteractiveRectAffineGraphic.LineWidthInScreenPixels = 1;
+            InteractiveRectAffineGraphic.GraphicDOFEnable = CogRectangleAffineDOFConstants.All;
+            kCogDisplay.ClearDisplay(_groupName);
+            kCogDisplay.InteractiveGraphics.Add(InteractiveRectAffineGraphic, _groupName, true);
+        }
+
+        /// <summary>
+        /// 수정이 불 가능한 고정 도형 그리기
+        /// </summary>
+        /// <param name="_cogRectAffine">RectAffine 객체</param>
+        /// <param name="_groupName">그려지는 그룹명</param>
+        /// <param name="_color">색상</param>
+        public void DrawStaticShape(CogRectangleAffine _cogRectAffine, string _groupName, CogColorConstants _color)
+        {
+            StaticRectAffineGraphic = new CogRectangleAffine();
+            StaticRectAffineGraphic = _cogRectAffine;
+            StaticRectAffineGraphic.Color = _color;
+            StaticRectAffineGraphic.LineWidthInScreenPixels = 1;
+            kCogDisplay.ClearDisplay(_groupName);
+            kCogDisplay.StaticGraphics.Add(StaticRectAffineGraphic, _groupName);
+        }
+
+        public void DrawInterActiveShape(CogPointMarker _cogPointMarker, string _groupName, CogColorConstants _color)
+        {
+            InteractivePointMarker = new CogPointMarker();
+            InteractivePointMarker = _cogPointMarker;
+            InteractivePointMarker.Interactive = true;
+            InteractivePointMarker.Color = _color;
+            InteractivePointMarker.LineWidthInScreenPixels = 1;
+            InteractivePointMarker.GraphicType = CogPointMarkerGraphicTypeConstants.Crosshair;
+            InteractivePointMarker.GraphicDOFEnable = CogPointMarkerDOFConstants.All;
+            kCogDisplay.ClearDisplay(_groupName);
+            kCogDisplay.InteractiveGraphics.Add(InteractivePointMarker, _groupName, true);
+        }
+
+        /// <summary>
+        /// 수정이 불 가능한 고정 도형 그리기
+        /// </summary>
+        /// <param name="_cogRectAffine">RectAffine 객체</param>
+        /// <param name="_groupName">그려지는 그룹명</param>
+        /// <param name="_color">색상</param>
+        public void DrawStaticShape(CogPointMarker _cogPointMarker, string _groupName, CogColorConstants _color)
+        {
+            StaticPointMarker = new CogPointMarker();
+            StaticPointMarker = _cogPointMarker;
+            StaticPointMarker.Color = _color;
+            StaticPointMarker.LineWidthInScreenPixels = 1;
+            StaticPointMarker.GraphicType = CogPointMarkerGraphicTypeConstants.Crosshair;
+            kCogDisplay.ClearDisplay(_groupName);
+            kCogDisplay.StaticGraphics.Add(StaticPointMarker, _groupName);
+        }
+
+        public CogRectangleAffine GetStaticRectangleAffine()
+        {
+            CogRectangleAffine cogRectangleAffine = new CogRectangleAffine();
+            double CenterX, CenterY, Width, Height, Rotate, Skew;
+            StaticRectAffineGraphic.GetCenterLengthsRotationSkew(out CenterX, out CenterY, out Width, out Height, out Rotate, out Skew);
+            cogRectangleAffine.SetCenterLengthsRotationSkew(CenterX, CenterY, Width, Height, Rotate, Skew);
+            return cogRectangleAffine;
+        }
+
+        public CogRectangleAffine GetInterActiveRectangleAffine()
+        {
+            CogRectangleAffine cogRectangleAffine = new CogRectangleAffine();
+            double CenterX, CenterY, Width, Height, Rotate, Skew;
+            InteractiveRectAffineGraphic.GetCenterLengthsRotationSkew(out CenterX, out CenterY, out Width, out Height, out Rotate, out Skew);
+            cogRectangleAffine.SetCenterLengthsRotationSkew(CenterX, CenterY, Width, Height, Rotate, Skew);
+            return cogRectangleAffine;
+        }
+        #endregion Draw Shape Display Window
+
+        #region Display Image get/set
+        /// <summary>
+        /// Display control 이미지 추가
+        /// </summary>
+        /// <param name="_cogDisplayImage">Display 할 이미지</param>
+        public void SetDisplayImage(CogImage8Grey _cogDisplayImage)
+        {
+            kCogDisplay.Image = _cogDisplayImage;
+        }
+
+        /// <summary>
+        /// Display Image 가져오기
+        /// </summary>
+        /// <returns></returns>
+        public ICogImage GetDisplayImage()
+        {
+            return kCogDisplay.Image;
+        }
+
+        /// <summary>
+        /// Display Image 유무 확인
+        /// </summary>
+        /// <returns></returns>
+        public bool IsDisplayImage()
+        {
+            if (kCogDisplay.Image == null) return false;
+            else return true;
+        }
+        #endregion Display Image get/set
+    }
+}

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB91E730-19BE-4FC3-B73E-2F791F7C39B7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HistoryManager</RootNamespace>
+    <AssemblyName>HistoryManager</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cognex.VisionPro, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Caliper, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Core, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Display.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageFile, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageProcessing, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>C:\[Back up]\Vision SW_20171123_1 (Auto Insp)\KPPLCMonitoring\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CHistoryManager.cs" />
+    <Compile Include="HistoryWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoryWindow.Designer.cs">
+      <DependentUpon>HistoryWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SQLite\SqlDefine.cs" />
+    <Compile Include="SQLite\SqliteManager.cs" />
+    <Compile Include="SQLite\SqlQuery.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="HistoryWindow.resx">
+      <DependentUpon>HistoryWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planner-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AllView-35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DB_Clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bin_full2_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planner-35_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AllView-35_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CustomControl\CustomControl.csproj">
+      <Project>{FE56E73E-490F-436E-885D-8BE182B74794}</Project>
+      <Name>CustomControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPDisplay\KPDisplay.csproj">
+      <Project>{75AB941C-2786-416B-B183-E140799EB245}</Project>
+      <Name>KPDisplay</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogManager\LogMessageManager.csproj">
+      <Project>{635bf6d0-1b81-4b61-9f53-5e93c5335b28}</Project>
+      <Name>LogMessageManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ParameterManager\ParameterManager.csproj">
+      <Project>{72a2c4a7-8c84-416f-a883-9cb823bc9155}</Project>
+      <Name>ParameterManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

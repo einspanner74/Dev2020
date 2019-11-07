@@ -1,0 +1,523 @@
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\bin\x64\Debug\KPDisplay.dll
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\bin\x64\Debug\KPDisplay.pdb
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\[KP-Vision] Program\KPTrayTapOCRInspection Project\KPTrayTapOCRInspectionProject\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\KPDisplay\bin\x64\Debug\KPDisplay.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\KPDisplay\bin\x64\Debug\KPDisplay.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\KPDisplay\obj\x64\Debug\KPDisplay.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\x64\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\obj\x64\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\KPDisplay.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\TrimFormInspection\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\VisionProgram\TrimFormInspection\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\VisionProgram\TrimFormInspection\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspectionProgram\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\KPDisplay.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190919\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+C:\Data\KPVisionInspection2019_190919\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\KPDisplay\obj\x64\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190919\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190924\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+C:\Data\KPVisionInspection2019_190924\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\KPDisplay\obj\x64\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190924\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+C:\Data\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.KPCogDisplayControl.resources
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspection2020\KPDisplay\obj\x64\Debug\KPDisplay.pdb

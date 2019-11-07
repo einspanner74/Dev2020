@@ -1,0 +1,20 @@
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\bin\Release\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\bin\Release\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\bin\Release\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.LogSettingWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.LogWindowSE.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.LogSettingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.LogWindowSE.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\LogManager\obj\Release\LogMessageManager.pdb

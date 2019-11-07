@@ -1,0 +1,4 @@
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogMessageManager.LogWindowSE.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LogManager\obj\Debug\LogManager.csproj.GenerateResource.Cache

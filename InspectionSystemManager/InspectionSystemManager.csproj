@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{050E0042-7F11-4E6D-8369-6D7DB086D70D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InspectionSystemManager</RootNamespace>
+    <AssemblyName>InspectionSystemManager</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;_DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;_RELEASE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cognex.VisionPro, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Blob, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Caliper, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Caliper.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Core, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Dimensioning, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Dimensioning.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Display.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ID, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageFile, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageFile.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageProcessing, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.PMAlign, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="CPressingButton">
+      <HintPath>.\CPressingButton.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithm\ucCogEllipseFind.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogEllipseFind.designer.cs">
+      <DependentUpon>ucCogEllipseFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CInspectionSystemManager.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionBlobReference.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionBlob.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionPattern.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionID.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionLineFind.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionAutoPattern.cs" />
+    <Compile Include="Algorithm\InspectionClass\InspectionEllipse.cs" />
+    <Compile Include="InspSysManagerWindow\InspectionWindowAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InspSysManagerWindow\InspectionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InspSysManagerWindow\InspectionWindow.Designer.cs">
+      <DependentUpon>InspectionWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\InspectionClass\InspectionMultiPattern.cs" />
+    <Compile Include="LanguageResource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LanguageResource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="LanguageResource.ko-KR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LanguageResource.ko-KR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TeachingForm\ImageDeleteWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeachingForm\ImageDeleteWindow.designer.cs">
+      <DependentUpon>ImageDeleteWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeachingForm\ManualInspectionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeachingForm\ManualInspectionWindow.designer.cs">
+      <DependentUpon>ManualInspectionWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeachingForm\TeachingWindowEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeachingForm\TeachingWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeachingForm\TeachingWindow.Designer.cs">
+      <DependentUpon>TeachingWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogBlob.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogBlob.Designer.cs">
+      <DependentUpon>ucCogBlob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogPattern.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogPattern.Designer.cs">
+      <DependentUpon>ucCogPattern.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogBlobReference.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogBlobReference.Designer.cs">
+      <DependentUpon>ucCogBlobReference.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogID.designer.cs">
+      <DependentUpon>ucCogID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogLineFind.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogLineFind.Designer.cs">
+      <DependentUpon>ucCogLineFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogMultiPattern.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogMultiPattern.Designer.cs">
+      <DependentUpon>ucCogMultiPattern.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm\ucCogAutoPattern.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Algorithm\ucCogAutoPattern.Designer.cs">
+      <DependentUpon>ucCogAutoPattern.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CameraManager\CameraManager.csproj">
+      <Project>{6da2adbe-a1ac-444c-b2fb-c303c6c50976}</Project>
+      <Name>CameraManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CustomControl\CustomControl.csproj">
+      <Project>{fe56e73e-490f-436e-885d-8be182b74794}</Project>
+      <Name>CustomControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPDisplay\KPDisplay.csproj">
+      <Project>{75ab941c-2786-416b-b183-e140799eb245}</Project>
+      <Name>KPDisplay</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogManager\LogMessageManager.csproj">
+      <Project>{635bf6d0-1b81-4b61-9f53-5e93c5335b28}</Project>
+      <Name>LogMessageManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MapDataManager\MapDataManager.csproj">
+      <Project>{7a1b5eb3-9664-49c0-9935-f8d728dacc9f}</Project>
+      <Name>MapDataManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ParameterManager\ParameterManager.csproj">
+      <Project>{72a2c4a7-8c84-416f-a883-9cb823bc9155}</Project>
+      <Name>ParameterManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WindowKeyPad\WindowKeyPad.csproj">
+      <Project>{50134b44-1952-4c24-8b1d-76f8b9b49fc1}</Project>
+      <Name>WindowKeyPad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Algorithm\ucCogAutoPattern.resx">
+      <DependentUpon>ucCogAutoPattern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogBlob.resx">
+      <DependentUpon>ucCogBlob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogBlobReference.resx">
+      <DependentUpon>ucCogBlobReference.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogEllipseFind.resx">
+      <DependentUpon>ucCogEllipseFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogMultiPattern.resx">
+      <DependentUpon>ucCogMultiPattern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogPattern.resx">
+      <DependentUpon>ucCogPattern.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InspSysManagerWindow\InspectionWindow.resx">
+      <DependentUpon>InspectionWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LanguageResource.ko-KR.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LanguageResource.ko-KR.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LanguageResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LanguageResource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeachingForm\ImageDeleteWindow.resx">
+      <DependentUpon>ImageDeleteWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeachingForm\ManualInspectionWindow.resx">
+      <DependentUpon>ManualInspectionWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeachingForm\TeachingWindow.resx">
+      <DependentUpon>TeachingWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogID.resx">
+      <DependentUpon>ucCogID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm\ucCogLineFind.resx">
+      <DependentUpon>ucCogLineFind.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CameraOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rang_Upper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfigSave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfigSaveOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveImageOver.png" />
+    <None Include="Resources\SaveImageDown.png" />
+    <None Include="Resources\ImageOver.png" />
+    <None Include="Resources\ImageDown.png" />
+    <None Include="Resources\TrainFileSaveOver.png" />
+    <None Include="Resources\TrainFileSaveDown.png" />
+    <None Include="Resources\TrainOver.png" />
+    <None Include="Resources\TrainDown.png" />
+    <None Include="Resources\LiveOver.png" />
+    <None Include="Resources\LiveDown.png" />
+    <None Include="Resources\InspStartDown.png" />
+    <None Include="Resources\InspStartOver.png" />
+    <None Include="Resources\LoadImage.png" />
+    <None Include="Resources\SaveImage.png" />
+    <None Include="Resources\Live.png" />
+    <None Include="Resources\TrainFileSave.png" />
+    <None Include="Resources\Train.png" />
+    <None Include="Resources\Cross.png" />
+    <None Include="Resources\Image.png" />
+    <None Include="Resources\AutoSaveImage.png" />
+    <None Include="Resources\AutoSaveImageDown.png" />
+    <None Include="Resources\AutoSaveImageOver.png" />
+    <None Include="Resources\AutoStop.png" />
+    <None Include="Resources\AutoStopDown.png" />
+    <None Include="Resources\AutoStopOver.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\DeleteDown.png" />
+    <None Include="Resources\DeleteOver.png" />
+    <None Include="Resources\CrossDown.png" />
+    <None Include="Resources\CrossOver.png" />
+    <None Include="Resources\InspStart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CameraDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConfigSaveDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadImageDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadImageOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrainFileSaveDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CameraDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InspStartDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LiveDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadImageDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrainDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Result.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultStopDisable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultStopDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResultStopOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuickInsp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuickInspDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuickInspOver.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

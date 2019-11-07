@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75AB941C-2786-416B-B183-E140799EB245}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KPDisplay</RootNamespace>
+    <AssemblyName>KPDisplay</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cognex.VisionPro, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Caliper, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Core, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.CorePlus, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Display.Controls, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageFile, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageProcessing, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Interop.Core, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="QWhale.Common, Version=1.62.4104.36375, Culture=neutral, PublicKeyToken=da632fd1713dff10" />
+    <Reference Include="QWhale.Editor, Version=1.62.4104.36377, Culture=neutral, PublicKeyToken=da632fd1713dff10" />
+    <Reference Include="QWhale.Syntax, Version=1.62.4104.36376, Culture=neutral, PublicKeyToken=da632fd1713dff10" />
+    <Reference Include="QWhale.Syntax.Parsers, Version=1.62.4104.36376, Culture=neutral, PublicKeyToken=da632fd1713dff10" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CogDisplay\KPCogDisplayControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CogDisplay\KPCogDisplayControl.Designer.cs">
+      <DependentUpon>KPCogDisplayControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CogDisplay\KPCogDisplay.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CogDisplay\KPCogDisplay.Designer.cs">
+      <DependentUpon>KPCogDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CogDisplay\KPCogDisplayControl.resx">
+      <DependentUpon>KPCogDisplayControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LogManager\LogMessageManager.csproj">
+      <Project>{635bf6d0-1b81-4b61-9f53-5e93c5335b28}</Project>
+      <Name>LogMessageManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

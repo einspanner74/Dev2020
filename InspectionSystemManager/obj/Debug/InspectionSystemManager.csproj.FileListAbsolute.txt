@@ -1,0 +1,1262 @@
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CameraManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CPressingButton.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CameraManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\bin\Debug\MapDataManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\stdole.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\VisionProgram\TrimFormInspection\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CameraManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CPressingButton.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\MapDataManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CameraManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\stdole.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadFormInspection.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadFormInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadFormInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CPressingButton.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadFormInspection.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Data\KPVisionInspection2019_190919\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\CPressingButton.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadFormInspection.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Data\KPVisionInspection2019_190924\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadFormInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogNeedleCircleFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLeadTrimInspection.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CPressingButton.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Data\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CPressingButton.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\stdole.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+C:\Data\KPVisionInspection2020\InspectionSystemManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\InspectionSystemManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\InspectionSystemManager.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CPressingButton.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CameraManager.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\MapDataManager.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\WindowKeyPad.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ID.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\PylonC.NET.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogAutoPattern.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlob.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogBlobReference.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogEllipseFind.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogMultiPattern.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogPattern.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.InspectionWindow.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ImageDeleteWindow.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ManualInspectionWindow.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.TeachingWindow.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogID.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.ucCogLineFind.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.LanguageResource.ko-KR.resources
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\ko-KR\InspectionSystemManager.resources.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.dll
+D:\VisionProgram\KPVisionInspection2020\InspectionSystemManager\obj\Debug\InspectionSystemManager.pdb

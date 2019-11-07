@@ -1,0 +1,148 @@
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.exe
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.exe
+D:\Program SW\CIPOS Lead Inspection2\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.exe
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.exe
+D:\Program SW\CIPOS Lead Inspection3\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\CPressingButton.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\CustomControl.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\CustonMsgBoxManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\stdole.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\CustomControl.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIOControlWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIONamingWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\CPressingButton.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIOControlWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIONamingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\CPressingButton.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\CustomControl.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\log4net.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\stdole.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.pdb
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIOControlWindow.resources
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIONamingWindow.resources
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.dll
+C:\Data\KPVisionInspection2019_190919\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\CPressingButton.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\log4net.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\stdole.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.pdb
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIOControlWindow.resources
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIONamingWindow.resources
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.dll
+C:\Data\KPVisionInspection2019_190924\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\DIOControlManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\CPressingButton.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\CustomMsgBoxManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\bin\Release\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIOControlWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.DIONamingWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\DIOControlManager\DIOControlManager\obj\Release\DIOControlManager.pdb

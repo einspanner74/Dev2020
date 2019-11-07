@@ -1,0 +1,415 @@
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170215\CustomControl\bin\Debug\CustomControl.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170215\CustomControl\bin\Debug\CustomControl.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170215\CustomControl\obj\Debug\CustomControl.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170215\CustomControl\obj\Debug\CustomControl.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170215\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\CustomControl\bin\Debug\CustomControl.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\CustomControl\bin\Debug\CustomControl.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\CustomControl\obj\Debug\CustomControl.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170216\CustomControl\obj\Debug\CustomControl.pdb
+C:\Users\Vision\Desktop\KVInspectionProgram Project 20170308\CustomControl\bin\Debug\CustomControl.dll
+C:\Users\Vision\Desktop\KVInspectionProgram Project 20170308\CustomControl\bin\Debug\CustomControl.pdb
+C:\Users\Vision\Desktop\KVInspectionProgram Project 20170308\CustomControl\obj\Debug\CustomControl.dll
+C:\Users\Vision\Desktop\KVInspectionProgram Project 20170308\CustomControl\obj\Debug\CustomControl.pdb
+C:\KPSolaCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\KPSolaCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\KPSolaCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\KPSolaCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Program SW\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Program SW\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Program SW\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Program SW\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject_합치기원본\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject_합치기원본\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject_합치기원본\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject_합치기원본\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject_합치기원본\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Vision Software\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Vision Software\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Vision Software\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Vision Software\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Vision Software\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170622\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170703\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170706\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170714_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170717\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Vision SW\Vision SW_20170718_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170719_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[FrameWork]\KPSolarCellVisionInspectionProject\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[FrameWork]\VisionFramework2\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\obj\Debug\CustomControl.pdb
+C:\Zoom\Source management\Development\KPVisionFramework\VisionFramework\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CustomControl\obj\Debug\CustomControl.pdb
+D:\VisionProgram\TrimFormInspection\CustomControl\bin\Debug\CustomControl.dll
+D:\VisionProgram\TrimFormInspection\CustomControl\bin\Debug\CustomControl.pdb
+D:\VisionProgram\TrimFormInspection\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\VisionProgram\TrimFormInspection\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\VisionProgram\TrimFormInspection\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\CustomControl\obj\Debug\CustomControl.dll
+D:\VisionProgram\TrimFormInspection\CustomControl\obj\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\obj\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspectionProgram\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CustomControl\obj\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\CustomControl\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\CustomControl\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Data\KPVisionInspection2019_190924\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Data\KPVisionInspection2019_190924\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\CustomControl\obj\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2020\CustomControl\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2020\CustomControl\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Data\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Data\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.pdb

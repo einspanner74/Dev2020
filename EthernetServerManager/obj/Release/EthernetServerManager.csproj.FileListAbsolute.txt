@@ -1,0 +1,61 @@
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\EthernetServerManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\CustomMsgBoxManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\bin\Release\CustomMsgBoxManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\obj\Release\EthernetServerManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\CustomMsgBoxManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\log4net.dll
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\bin\Release\CustomMsgBoxManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\CustomMsgBoxManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\log4net.dll
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\bin\Release\CustomMsgBoxManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\EthernetServerManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\CustomMsgBoxManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\bin\Release\CustomMsgBoxManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\obj\Release\EthernetServerManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetServerManager\obj\Release\EthernetServerManager.pdb

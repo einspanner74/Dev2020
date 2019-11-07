@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5AAAD64B-6595-4B6E-8363-C0C7FDD0050C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KPVisionInspectionFramework</RootNamespace>
+    <AssemblyName>KP INT Vision Inspection</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>게시\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;_DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\</OutputPath>
+    <DefineConstants>TRACE;_RELEASE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LOGO_KP.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cognex.VisionPro, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.Core, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="Cognex.VisionPro.ImageFile, Version=63.0.0.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
+    <Reference Include="CustomMsgBoxManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CustomMsgBoxManager.dll</HintPath>
+    </Reference>
+    <Reference Include="LoadingManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LoadingManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="SevenSegment, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Users\zoom7\Documents\Visual Studio 2015\Projects\ResultSample\ResultSample\SevenSegment.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.Ribbon35, Version=3.5.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LanguageResource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LanguageResource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="LanguageResource.ko-KR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LanguageResource.ko-KR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\FolderPathWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\FolderPathWindow.designer.cs">
+      <DependentUpon>FolderPathWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Program.cs" />
+    <Compile Include="MainForm\MainLogoWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\MainLogoWindow.Designer.cs">
+      <DependentUpon>MainLogoWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainProcessClass\MainProcessBase.cs" />
+    <Compile Include="MainProcessClass\MainProcessDefault.cs" />
+    <Compile Include="MainProcessClass\MainProcessNavien.cs" />
+    <Compile Include="MainProcessClass\MainProcessSolarAlign.cs" />
+    <Compile Include="MainResultForm\MainResultBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainResultForm\MainResultBase.Designer.cs">
+      <DependentUpon>MainResultBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\NoticeWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\NoticeWindow.Designer.cs">
+      <DependentUpon>NoticeWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainResultForm\ucMainResultSolarAlign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainResultForm\ucMainResultSolarAlign.Designer.cs">
+      <DependentUpon>ucMainResultSolarAlign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecipeForm\RecipeWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecipeForm\RecipeWindow.Designer.cs">
+      <DependentUpon>RecipeWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecipeForm\RecipeNewNameWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecipeForm\RecipeNewNameWindow.designer.cs">
+      <DependentUpon>RecipeNewNameWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainResultForm\ucMainResultNone.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainResultForm\ucMainResultNone.Designer.cs">
+      <DependentUpon>ucMainResultNone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainResultForm\ResultConditionAlign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainResultForm\ResultConditionAlign.designer.cs">
+      <DependentUpon>ResultConditionAlign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainResultForm\UVW.cs" />
+    <EmbeddedResource Include="LanguageResource.ko-KR.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LanguageResource.ko-KR.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LanguageResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LanguageResource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="MainResultForm\ucMainResultNavien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainResultForm\ucMainResultNavien.Designer.cs">
+      <DependentUpon>ucMainResultNavien.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainForm\FolderPathWindow.resx">
+      <DependentUpon>FolderPathWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\MainLogoWindow.resx">
+      <DependentUpon>MainLogoWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainResultForm\MainResultBase.resx">
+      <DependentUpon>MainResultBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainResultForm\ucMainResultNavien.resx">
+      <DependentUpon>ucMainResultNavien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainResultForm\ucMainResultNone.resx">
+      <DependentUpon>ucMainResultNone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\NoticeWindow.resx">
+      <DependentUpon>NoticeWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainResultForm\ucMainResultSolarAlign.resx">
+      <DependentUpon>ucMainResultSolarAlign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RecipeForm\RecipeWindow.resx">
+      <DependentUpon>RecipeWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecipeForm\RecipeNewNameWindow.resx">
+      <DependentUpon>RecipeNewNameWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainResultForm\ResultConditionAlign.resx">
+      <DependentUpon>ResultConditionAlign.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\Stop.png" />
+    <None Include="Resources\Start.png" />
+    <None Include="Resources\DIO.png" />
+    <None Include="Resources\Ethernet.png" />
+    <None Include="Resources\Light.png" />
+    <None Include="Resources\Folder.png" />
+    <None Include="Resources\History.png" />
+    <None Include="Resources\Log.png" />
+    <None Include="Resources\Recipe.png" />
+    <None Include="Resources\Config.png" />
+    <None Include="Resources\Align.png" />
+    <None Include="Resources\Serial.png" />
+    <None Include="Resources\MapData.png" />
+    <Content Include="LOGO_KP.ico" />
+    <None Include="Resources\CompanyLogo.png" />
+    <None Include="Resources\Com_Logo_Mobis.png" />
+    <None Include="Resources\PLC.png" />
+    <None Include="Resources\Calibration.png" />
+    <Content Include="VisionInspection.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\CustomControl\CustomControl.csproj">
+      <Project>{fe56e73e-490f-436e-885d-8be182b74794}</Project>
+      <Name>CustomControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DIOControlManager\DIOControlManager\DIOControlManager.csproj">
+      <Project>{e0e5535a-0419-44f5-a201-e2f530a4b509}</Project>
+      <Name>DIOControlManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EthernetManager\EthernetManager.csproj">
+      <Project>{a34d8ba3-047b-41a3-88fa-20dc46ec5306}</Project>
+      <Name>EthernetManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EthernetServerManager\EthernetServerManager.csproj">
+      <Project>{fcee60f9-5586-4325-b5aa-8ad61e6ba769}</Project>
+      <Name>EthernetServerManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HistoryManager\HistoryManager.csproj">
+      <Project>{fb91e730-19be-4fc3-b73e-2f791f7c39b7}</Project>
+      <Name>HistoryManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\InspectionSystemManager\InspectionSystemManager.csproj">
+      <Project>{050e0042-7f11-4e6d-8369-6d7db086d70d}</Project>
+      <Name>InspectionSystemManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LightManager\LightManager.csproj">
+      <Project>{abbc12af-e300-4cc1-a63c-af1ceb35c536}</Project>
+      <Name>LightManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LogManager\LogMessageManager.csproj">
+      <Project>{635bf6d0-1b81-4b61-9f53-5e93c5335b28}</Project>
+      <Name>LogMessageManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MitsubishiCommunicationManager\MitsubishiCommunicationManager.csproj">
+      <Project>{ababef97-3fd6-41e2-8640-0fd193f7f47b}</Project>
+      <Name>MitsubishiCommunicationManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ParameterManager\ParameterManager.csproj">
+      <Project>{72a2c4a7-8c84-416f-a883-9cb823bc9155}</Project>
+      <Name>ParameterManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SerialManager\SerialManager.csproj">
+      <Project>{97e36043-35ea-451c-b633-c8fe6a0267be}</Project>
+      <Name>SerialManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

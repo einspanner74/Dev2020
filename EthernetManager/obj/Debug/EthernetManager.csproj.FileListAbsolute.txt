@@ -1,0 +1,167 @@
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\bin\Debug\EthernetManager.dll
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\bin\Debug\EthernetManager.pdb
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\bin\Debug\LogMessageManager.dll
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\bin\Debug\log4net.dll
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\bin\Debug\LogMessageManager.pdb
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.dll
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.pdb
+F:\[Project]\2018\MIT_Blower\Program\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\bin\Debug\EthernetManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\bin\Debug\EthernetManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\VisionProgram\TrimFormInspection\EthernetManager\bin\Debug\EthernetManager.dll
+D:\VisionProgram\TrimFormInspection\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\VisionProgram\TrimFormInspection\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\VisionProgram\TrimFormInspection\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\EthernetManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\VisionProgram\TrimFormInspection\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\VisionProgram\TrimFormInspection\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\EthernetManager\obj\Debug\EthernetManager.dll
+D:\VisionProgram\TrimFormInspection\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\bin\Debug\EthernetManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\obj\Debug\EthernetManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\bin\Debug\EthernetManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\obj\Debug\EthernetManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\bin\Debug\EthernetManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\obj\Debug\EthernetManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\EthernetManager\obj\Debug\EthernetManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetManager\bin\Debug\EthernetManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetManager\bin\Debug\EthernetManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\EthernetManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+C:\Data\KPVisionInspection2019_190919\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\EthernetManager\obj\Debug\EthernetManager.dll
+C:\Data\KPVisionInspection2019_190919\EthernetManager\obj\Debug\EthernetManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetManager\bin\Debug\EthernetManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetManager\bin\Debug\EthernetManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\EthernetManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+C:\Data\KPVisionInspection2019_190924\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\EthernetManager\obj\Debug\EthernetManager.dll
+C:\Data\KPVisionInspection2019_190924\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\bin\Debug\EthernetManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\obj\Debug\EthernetManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.pdb
+C:\Data\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.dll
+C:\Data\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.pdb
+C:\Data\KPVisionInspection2020\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+C:\Data\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\EthernetManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+C:\Data\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.dll
+C:\Data\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\bin\Debug\EthernetManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\obj\Debug\EthernetManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\EthernetManager\obj\Debug\EthernetManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.pdb
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.dll
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\bin\Debug\EthernetManager.pdb
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\bin\Debug\CustonMsgBoxManager.dll
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.EthernetWindow.resources
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.dll
+D:\VisionProgram\KPVisionInspection2020\EthernetManager\obj\Debug\EthernetManager.pdb

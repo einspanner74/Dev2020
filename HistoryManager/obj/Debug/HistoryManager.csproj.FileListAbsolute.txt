@@ -1,0 +1,830 @@
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject_History최종\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Users\KP\Desktop\KPTrayTapOCRInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170820_PLC Jog_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+G:\[KP]\Program\DMS\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\SW\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171018_1(AlgoADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171102(LaserAlignCalADD)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+I:\Vision SW_20171106_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Program SW\DMS SolarCell\Vision SW_20171120_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Company\Software\Vision SW_20171215 (Rebirth)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180225_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Data\Vision SW_20180225_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180308_1(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180326_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180328_2\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180329_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Users\Administrator\Desktop\Vision SW_20180409_1\KPSolarCellVisionInspectionProject\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\bin\Debug\HistoryManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\bin\Debug\HistoryManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\bin\Debug\System.Data.SQLite.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\bin\Debug\System.Data.SQLite.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\VisionProgram\TrimFormInspection\HistoryManager\bin\Debug\HistoryManager.dll
+D:\VisionProgram\TrimFormInspection\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\VisionProgram\TrimFormInspection\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\HistoryManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\VisionProgram\TrimFormInspection\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\VisionProgram\TrimFormInspection\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\HistoryManager\obj\Debug\HistoryManager.dll
+D:\VisionProgram\TrimFormInspection\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\bin\Debug\HistoryManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\obj\Debug\HistoryManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\CustomControl.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\stdole.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190919\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Data\KPVisionInspection2019_190919\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Data\KPVisionInspection2019_190919\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190924\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Data\KPVisionInspection2019_190924\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Data\KPVisionInspection2019_190924\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\CustomControl.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.pdb
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.pdb
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Data\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Data\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\stdole.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\HistoryManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\CustomControl.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\KPDisplay.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\CustomControl.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\KPDisplay.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\obj\Debug\HistoryManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\HistoryManager\obj\Debug\HistoryManager.pdb
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\HistoryManager.pdb
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\CustomControl.pdb
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\KPDisplay.pdb
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.HistoryWindow.resources
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.dll
+D:\VisionProgram\KPVisionInspection2020\HistoryManager\obj\Debug\HistoryManager.pdb

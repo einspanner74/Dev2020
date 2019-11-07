@@ -1,0 +1,723 @@
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\CameraManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\CameraManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\KPDisplay.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\KPDisplay.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\obj\Debug\CameraManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\CameraManager\obj\Debug\CameraManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\CameraManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\CameraManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\PylonC.NET.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\PylonC.NET.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\obj\Debug\CameraManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\CameraManager\obj\Debug\CameraManager.pdb
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\CameraManager.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\CameraManager.pdb
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\stdole.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\PylonC.NET.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\TrimFormInspection\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\CameraManager\obj\Debug\CameraManager.dll
+D:\VisionProgram\TrimFormInspection\CameraManager\obj\Debug\CameraManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\CameraManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\CameraManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\PylonC.NET.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\CameraManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\CameraManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\PylonC.NET.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.dll
+C:\Zoom\Source management\Project\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.pdb
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\CameraManager.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\CameraManager.pdb
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\LogMessageManager.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\ParameterManager.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\PylonC.NET.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\log4net.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\stdole.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\LogMessageManager.pdb
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\ParameterManager.pdb
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\PylonC.NET.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\obj\Debug\CameraManager.dll
+F:\[Project]\2018\GitFolder\Einspanner\CameraManager\obj\Debug\CameraManager.pdb
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\CameraManager.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\CameraManager.pdb
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\ParameterManager.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.dll
+C:\Users\Administrator\Desktop\KPVisionInspectionProgram\CameraManager\obj\Debug\CameraManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\CameraManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\stdole.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\obj\Debug\CameraManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\CameraManager\obj\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\obj\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\CameraManager\obj\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\PylonC.NET.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\PylonC.NET.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190919\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\CameraManager\obj\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2019_190919\CameraManager\obj\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\PylonC.NET.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\PylonC.NET.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2019_190924\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190924\CameraManager\obj\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2019_190924\CameraManager\obj\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\stdole.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\obj\Debug\CameraManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\CameraManager\obj\Debug\CameraManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.pdb
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\stdole.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Data\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.dll
+C:\Data\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\stdole.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CameraManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Data\KPVisionInspection2020\CameraManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\CameraManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\CameraManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\CameraManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\ParameterManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\PylonC.NET.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\stdole.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\ParameterManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\PylonC.NET.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\obj\Debug\CameraManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\CameraManager\obj\Debug\CameraManager.pdb
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\CameraManager.pdb
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\stdole.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\ParameterManager.pdb
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\PylonC.NET.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\bin\Debug\Cognex.VisionPro3D.xml
+D:\VisionProgram\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.dll
+D:\VisionProgram\KPVisionInspection2020\CameraManager\obj\Debug\CameraManager.pdb

@@ -1,0 +1,754 @@
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project\KPTrayTapOCRInspectionProject_1.1.1.1\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\KP Tray Tab OCR Inspection Project (S)\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Users\KP-Jun\Desktop\KPTrayTapOCRInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\bin\Release\LoadingManager.dll
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\obj\Release\LoadingManager.dll
+D:\Program SW\KVInspectionProgram Project 20170308\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\bin\Release\LoadingManager.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.dll
+C:\Users\KP-Jun\Desktop\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\[KP Vision Inspection Program]\KVInspectionProgram Project 20170310\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Sola Cel Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Vision Software\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Users\KP-Jun\Desktop\Merge SW 20170524\Vision SW_20170523_ING_Real\Vision SW_20170524_Last\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Program SW\DMS SolarCell\Vision SW_20170608\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Vision SW\Vision SW_20170612\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20170614\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20170615\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Vision SW\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Program SW\DMS SolarCell\새 폴더\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Vision SW\Vision SW_20170720\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170807\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170809\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Program SW\DMS SolarCell\Vision SW_20170810\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170811\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Users\KP\Desktop\Vision SW_20170814\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170818\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170821\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170822_PLC Signal_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170825_1 (R_OFF)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170827_(R_OFF_LT)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170828_2(R_OFF_LT)_합침\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Data\Vision SW_20170828_4(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170829_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Project\2017\DMS\프로그램\Vision SW_20170901_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[KP]\Program\DMS\Vision SW_20170901_2(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170904_1(통합)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+E:\[KP]\Program\DMS\Vision SW_20170905_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170911_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20170925_1(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171010_2(AlgoADD)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\Vision SW_20171106_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+D:\[KP VISION] Program\DMS Solar Cell Vision Inspection\Vision SW_20171113_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Company\Software\Vision SW_20171215_2 (Rebirth)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171215_6\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_3\Vision SW_20171217_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171217_5\Vision SW_20171217_5\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171219_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\[Project]\2017\DMS\프로그램\Vision SW_20171219_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171222_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20171225_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180221\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180222_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180224_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180227_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180227_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180228_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180228_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20180301_2\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20180301_2(S)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180302_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180303_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180303_2(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+G:\[KP VISION]\DMS Solar Cell\Vision SW_20180305_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180306_1(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180308_4(S2)\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Data\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+C:\Zoom\Company\Software\[DMS]\Vision SW_20180310_1\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_3\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\LoadingManager.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\bin\Release\CustomControl.pdb
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.LoadingWindow.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.Properties.Resources.resources
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.csproj.GenerateResource.Cache
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.dll
+F:\[Project]\2017\DMS\프로그램\Vision SW_20180310_4\KPSolarCellVisionInspectionProject\LoadingManager\obj\Release\LoadingManager.pdb

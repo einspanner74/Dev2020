@@ -1,0 +1,157 @@
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\bin\Debug\SerialManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\bin\Debug\SerialManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Debug\SerialManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Debug\SerialManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\bin\Debug\SerialManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\bin\Debug\SerialManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Debug\SerialManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Debug\SerialManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\SerialManager\bin\Debug\SerialManager.dll
+D:\VisionProgram\TrimFormInspection\SerialManager\bin\Debug\SerialManager.pdb
+D:\VisionProgram\TrimFormInspection\SerialManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\TrimFormInspection\SerialManager\bin\Debug\log4net.dll
+D:\VisionProgram\TrimFormInspection\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\TrimFormInspection\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\TrimFormInspection\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\VisionProgram\TrimFormInspection\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\VisionProgram\TrimFormInspection\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\VisionProgram\TrimFormInspection\SerialManager\obj\Debug\SerialManager.dll
+D:\VisionProgram\TrimFormInspection\SerialManager\obj\Debug\SerialManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\bin\Debug\SerialManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\bin\Debug\SerialManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\obj\Debug\SerialManager.dll
+D:\VisionProgram\KPVisionInspectionProgram\SerialManager\obj\Debug\SerialManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\bin\Debug\SerialManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\bin\Debug\SerialManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\bin\Debug\log4net.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\obj\Debug\SerialManager.dll
+D:\Project\2019\[GIT]Einspanner\KPVisionInspection2019\SerialManager\obj\Debug\SerialManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\bin\Debug\SerialManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\bin\Debug\SerialManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\obj\Debug\SerialManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190829\SerialManager\obj\Debug\SerialManager.pdb
+C:\Data\KPVisionInspection2019_190919\SerialManager\bin\Debug\SerialManager.dll
+C:\Data\KPVisionInspection2019_190919\SerialManager\bin\Debug\SerialManager.pdb
+C:\Data\KPVisionInspection2019_190919\SerialManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190919\SerialManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190919\SerialManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190919\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2019_190919\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190919\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Data\KPVisionInspection2019_190919\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190919\SerialManager\obj\Debug\SerialManager.dll
+C:\Data\KPVisionInspection2019_190919\SerialManager\obj\Debug\SerialManager.pdb
+C:\Data\KPVisionInspection2019_190924\SerialManager\bin\Debug\SerialManager.dll
+C:\Data\KPVisionInspection2019_190924\SerialManager\bin\Debug\SerialManager.pdb
+C:\Data\KPVisionInspection2019_190924\SerialManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2019_190924\SerialManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2019_190924\SerialManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2019_190924\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2019_190924\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Data\KPVisionInspection2019_190924\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2019_190924\SerialManager\obj\Debug\SerialManager.dll
+C:\Data\KPVisionInspection2019_190924\SerialManager\obj\Debug\SerialManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\bin\Debug\SerialManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\bin\Debug\SerialManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\bin\Debug\log4net.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\obj\Debug\SerialManager.dll
+D:\Project\2019\경동나비엔\Program\KPVisionInspection2019_190924_ 현장최종설치\SerialManager\obj\Debug\SerialManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.pdb
+C:\Data\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.dll
+C:\Data\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.pdb
+C:\Data\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.dll
+C:\Data\KPVisionInspection2020\SerialManager\bin\Debug\log4net.dll
+C:\Data\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.pdb
+C:\Data\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+C:\Data\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Data\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Data\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Data\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.dll
+C:\Data\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\bin\Debug\SerialManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\bin\Debug\SerialManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\bin\Debug\LogMessageManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\bin\Debug\log4net.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\obj\Debug\SerialManager.dll
+D:\Project\2019\LAT\Program\KPVisionInspection2020_191028\SerialManager\obj\Debug\SerialManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.dll
+C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.pdb
+D:\VisionProgram\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.dll
+D:\VisionProgram\KPVisionInspection2020\SerialManager\bin\Debug\SerialManager.pdb
+D:\VisionProgram\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.dll
+D:\VisionProgram\KPVisionInspection2020\SerialManager\bin\Debug\log4net.dll
+D:\VisionProgram\KPVisionInspection2020\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.dll
+D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.pdb
