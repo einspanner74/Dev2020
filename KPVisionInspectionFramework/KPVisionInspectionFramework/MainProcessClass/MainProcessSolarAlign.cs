@@ -27,7 +27,13 @@ namespace KPVisionInspectionFramework
         private bool IsThreadPLCAliveCheckExit;
 
         private Thread ThreadMitsuInterfaceCheck;
-        private bool   IsThreadMitsuInterfaceCheckExit;
+        private bool IsThreadMitsuInterfaceCheckExit;
+
+        private Thread ThreadMitsuDataRead;
+        private bool IsThreadMitsuDataReadExit;
+
+        private AlignAxis ReadV1UVWCurrentPositionValue = new AlignAxis();
+        private AlignAxis ReadV2UVWCurrentPositionValue = new AlignAxis();
 
         private bool IsPLCAliveSignal    = false;
         private int  AliveValuePre       = 0;
@@ -41,6 +47,8 @@ namespace KPVisionInspectionFramework
         private int Vision2Status = PTVDefine.V_STATUS_NOT;
         private bool Vision2Trigger = false;
         private int Vision2RetryCount = 0;
+
+        //public delegate void GetReadAlignValueHanbdler(int _StagetNumber, AlignAxis _AxisValue);
 
         #region Initialize & DeInitialize
         public MainProcessSolarAlign()
@@ -71,6 +79,11 @@ namespace KPVisionInspectionFramework
                 ThreadMitsuInterfaceCheck.IsBackground = true;
                 IsThreadMitsuInterfaceCheckExit = false;
                 ThreadMitsuInterfaceCheck.Start();
+
+                ThreadMitsuDataRead = new Thread(ThreadMitsuDataReadFunc);
+                ThreadMitsuDataRead.IsBackground = true;
+                IsThreadMitsuDataReadExit = false;
+                ThreadMitsuDataRead.Start();
             }
         }
 
@@ -107,9 +120,34 @@ namespace KPVisionInspectionFramework
 
         public override void SetResult(int _Addr, short _Value)
         {
-            MitsuCommWnd.SetVTPWordData(_Addr, _Value); 
+            if (_Addr == VTPAddr.V1_INSP_RESULT)
+            {
+                MitsuCommWnd.SetVTPWordData(VTPAddr.V1_INSP_RESULT, _Value);
+                MitsuCommWnd.SetVTPWordData(VTPAddr.V1_RETRY_COUNT, (short)MitsuCommWnd.GetPTVWordData(PTVAddr.V1_RETRY_CNT));
+            }
+
+            else if (_Addr == VTPAddr.V2_INSP_RESULT)
+            {
+                MitsuCommWnd.SetVTPWordData(VTPAddr.V2_INSP_RESULT, _Value);
+                MitsuCommWnd.SetVTPWordData(VTPAddr.V2_RETRY_COUNT, (short)MitsuCommWnd.GetPTVWordData(PTVAddr.V2_RETRY_CNT));
+            }
         }
 
+        public override void SetDWordResult(int _Addr, short _LowValue, short _HiValue)
+        {
+            MitsuCommWnd.SetVTPWordData(_Addr, _LowValue);
+            MitsuCommWnd.SetVTPWordData(_Addr + 1, _HiValue);
+        }
+
+        public override bool SendResultData(SendResultParameter _ResultParam)
+        {
+            bool _Result = true;
+
+
+            return _Result;
+        }
+
+        #region Vision & PLC Alive Check Func
         private void ThreadVisionAliveFunc()
         {
             int _AliveCount = 32767;
@@ -171,7 +209,9 @@ namespace KPVisionInspectionFramework
                 }
             }
         }
+        #endregion
 
+        #region ThreadMitsuInterfaceCheckFunc 
         private void ThreadMitsuInterfaceCheckFunc()
         {
             try
@@ -179,7 +219,7 @@ namespace KPVisionInspectionFramework
                 while(false == IsThreadMitsuInterfaceCheckExit)
                 {
                     Thread.Sleep(5);
-                    //if (false == MitsuCommWnd.ReadCommunicationDatas()) continue;
+                    if (false == MitsuCommWnd.ReadCommunicationDatas()) continue;
                     if (false == ResetInspectionStatus()) continue;
 
                     if (true == Vision1InspectionRequestCheck()) InspectionRequest(1);
@@ -205,16 +245,37 @@ namespace KPVisionInspectionFramework
             return _Result;
         }
 
+        public override bool Reset(int _ID)
+        {
+            ReceiveResetRequest(_ID);
+
+            return true;
+        }
+
         private bool ReceiveResetRequest(int _StageNumber)
         {
             if (_StageNumber == 1)
             {
-
+                SetDWordResult(VTPAddr.V1_ALIGN_POS_U, 0, 0);
+                SetDWordResult(VTPAddr.V1_ALIGN_POS_V, 0, 0);
+                SetDWordResult(VTPAddr.V1_ALIGN_POS_W, 0, 0);
+                SetDWordResult(VTPAddr.V1_LAST_POS_U, 0, 0);
+                SetDWordResult(VTPAddr.V1_LAST_POS_V, 0, 0);
+                SetDWordResult(VTPAddr.V1_LAST_POS_W, 0, 0);
+                SetResult(VTPAddr.V1_INSP_RESULT, 0);
             }
 
             else if (_StageNumber == 2)
             {
 
+
+                SetDWordResult(VTPAddr.V2_ALIGN_POS_U, 0, 0);
+                SetDWordResult(VTPAddr.V2_ALIGN_POS_V, 0, 0);
+                SetDWordResult(VTPAddr.V2_ALIGN_POS_W, 0, 0);
+                SetDWordResult(VTPAddr.V2_LAST_POS_U, 0, 0);
+                SetDWordResult(VTPAddr.V2_LAST_POS_V, 0, 0);
+                SetDWordResult(VTPAddr.V2_LAST_POS_W, 0, 0);
+                SetResult(VTPAddr.V2_INSP_RESULT, 0);
             }
 
             return true;
@@ -261,13 +322,15 @@ namespace KPVisionInspectionFramework
             }
 
             //Request가 유지된 상태
-            else if (false == MitsuCommWnd.PTVWordDataChangeCheck(PTVAddr.V2_INSP_REQ) && _InspReq == PTVDefine.V_STATUS_INSP)
+            //else if (false == MitsuCommWnd.PTVWordDataChangeCheck(PTVAddr.V2_INSP_REQ) && _InspReq == PTVDefine.V_STATUS_INSP)
+            else if (false == MitsuCommWnd.PTVWordDataChangeCheck(PTVAddr.V2_INSP_REQ) && (_InspReq == PTVDefine.V_STATUS_INSP || _InspReq == PTVDefine.V_STATUS_CAL))
             {
                 //Retry Count 가 변함.
                 if (_RetryCnt > Vision2RetryCount)              {   Vision2Status = PTVDefine.V_STATUS_INSP;     Vision2Trigger = true;         Vision2RetryCount = _RetryCnt; }
+                //else { Vision2Trigger = false; }
             }
 
-            return Vision1Trigger;
+            return Vision2Trigger;
         }
 
         private bool Vision1CalibrationRequestCheck()
@@ -315,6 +378,67 @@ namespace KPVisionInspectionFramework
         }
         #endregion
 
+        private void ThreadMitsuDataReadFunc()
+        {
+            try
+            {
+                while (false == IsThreadMitsuDataReadExit)
+                {
+                    Thread.Sleep(5);
+                    ReadUVWCurrentPosition();
+                }
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+        }
+
+        private void ReadUVWCurrentPosition()
+        {
+            string _AlignULow   = MitsuCommWnd.GetPTVWordData(PTVAddr.V1_CURRENT_POS_U).ToString();
+            //string _AlignUHi    = MitsuCommWnd.GetPTVWordData(PTVAddr.V1_CURRENT_POS_U + 1).ToString() + "0000000000000000";
+            //double _AlignUValue = Convert.ToDouble((Convert.ToInt32(_AlignULow, 2) + Convert.ToInt32(_AlignUHi, 2))) / 10;
+            double _AlignUValue = Convert.ToInt32(_AlignULow)/10;
+            ReadV1UVWCurrentPositionValue.U = _AlignUValue;
+
+            string _AlignVLow   = MitsuCommWnd.GetPTVWordData(PTVAddr.V1_CURRENT_POS_V).ToString();
+            //string _AlignVHi    = MitsuCommWnd.GetPTVWordData(PTVAddr.V1_CURRENT_POS_V + 1).ToString() + "0000000000000000";
+            //double _AlignVValue = Convert.ToDouble((Convert.ToInt32(_AlignVLow, 2) + Convert.ToInt32(_AlignVHi, 2))) / 10;
+            double _AlignVValue = Convert.ToInt32(_AlignVLow) / 10;
+            ReadV1UVWCurrentPositionValue.V = _AlignVValue;
+
+            string _AlignWLow   = MitsuCommWnd.GetPTVWordData(PTVAddr.V1_CURRENT_POS_W).ToString();
+            //string _AlignWHi    = MitsuCommWnd.GetPTVWordData(PTVAddr.V1_CURRENT_POS_W + 1).ToString() + "0000000000000000";
+            //double _AlignWValue = Convert.ToDouble((Convert.ToInt32(_AlignWLow, 2) + Convert.ToInt32(_AlignWHi, 2))) / 10;
+            double _AlignWValue = Convert.ToInt32(_AlignWLow) / 10;
+            ReadV1UVWCurrentPositionValue.W = _AlignWValue;
+
+
+            _AlignULow   = MitsuCommWnd.GetPTVWordData(PTVAddr.V2_CURRENT_POS_U).ToString();
+            //_AlignUHi    = MitsuCommWnd.GetPTVWordData(PTVAddr.V2_CURRENT_POS_U + 1).ToString() + "0000000000000000";
+            //_AlignUValue = Convert.ToDouble((Convert.ToInt32(_AlignULow, 2) + Convert.ToInt32(_AlignUHi, 2))) / 10;
+            _AlignUValue = Convert.ToInt32(_AlignULow) / 10;
+            ReadV2UVWCurrentPositionValue.U = _AlignUValue;
+
+            _AlignVLow   = MitsuCommWnd.GetPTVWordData(PTVAddr.V2_CURRENT_POS_V).ToString();
+            //_AlignVHi    = MitsuCommWnd.GetPTVWordData(PTVAddr.V2_CURRENT_POS_V + 1).ToString() + "0000000000000000";
+            //_AlignVValue = Convert.ToDouble((Convert.ToInt32(_AlignVLow, 2) + Convert.ToInt32(_AlignVHi, 2))) / 10;
+            _AlignVValue = Convert.ToInt32(_AlignVLow) / 10;
+            ReadV2UVWCurrentPositionValue.V = _AlignVValue;
+
+            _AlignWLow   = MitsuCommWnd.GetPTVWordData(PTVAddr.V2_CURRENT_POS_W).ToString();
+            //_AlignWHi    = MitsuCommWnd.GetPTVWordData(PTVAddr.V2_CURRENT_POS_W + 1).ToString() + "0000000000000000";
+            //_AlignWValue = Convert.ToDouble((Convert.ToInt32(_AlignWLow, 2) + Convert.ToInt32(_AlignWHi, 2))) / 10;
+            _AlignWValue = Convert.ToInt32(_AlignWLow) / 10;
+            ReadV2UVWCurrentPositionValue.W = _AlignWValue;
+
+            GetReadAlignValue(0, ReadV1UVWCurrentPositionValue);
+            GetReadAlignValue(1, ReadV2UVWCurrentPositionValue);
+        }
+        #endregion
+
         #region Inspection Process
         /// <summary>
         /// Inspection Request & Retry Count Check
@@ -358,6 +482,27 @@ namespace KPVisionInspectionFramework
                     {
                         CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, String.Format("MainProces : Mitsu Comm Calibration Request{0} On Event", iLoopCount + 1));
                         OnMainProcessCommand(eMainProcCmd.CAL, (2 * iLoopCount)); 
+                    }
+                }
+            }
+
+            else if (_StageNumber == 2)
+            {
+                if (Vision2Status == PTVDefine.V_STATUS_INSP)
+                {
+                    for (int iLoopCount = 0; iLoopCount < 2; ++iLoopCount)
+                    {
+                        CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, String.Format("MainProces : Mitsu Comm Inspection Request{0} On Event", iLoopCount + 1));
+                        OnMainProcessCommand(eMainProcCmd.TRG, (2 * iLoopCount) + 1);
+                    }
+                }
+
+                else if (Vision2Status == PTVDefine.V_STATUS_CAL)
+                {
+                    for (int iLoopCount = 0; iLoopCount < 2; ++iLoopCount)
+                    {
+                        CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, String.Format("MainProces : Mitsu Comm Calibration Request{0} On Event", iLoopCount + 1));
+                        OnMainProcessCommand(eMainProcCmd.CAL, (2 * iLoopCount) + 1);
                     }
                 }
             }

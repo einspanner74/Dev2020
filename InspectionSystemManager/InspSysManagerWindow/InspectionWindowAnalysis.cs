@@ -105,7 +105,6 @@ namespace InspectionSystemManager
                     SendMeasureResult _SendResult = new SendMeasureResult();
 
                     _SendResParam.AlgoTypeList[iLoopCount] = eAlgoType.C_LINE_FIND;
-                    _SendResParam.IsGood &= _AlgoResultParam.IsGood;
 
                     if (_SendResParam.NgType == eNgType.GOOD)
                         _SendResParam.NgType = (_AlgoResultParam.IsGood == true) ? eNgType.GOOD : eNgType.EMPTY;
@@ -118,13 +117,23 @@ namespace InspectionSystemManager
                         _CogIntersectTool.LineA = LineResultList[0];
                         _CogIntersectTool.LineB = LineResultList[1];
                         _CogIntersectTool.Run();
-                        _SendResult.IntersectionX = _CogIntersectTool.X;
-                        _SendResult.IntersectionY = _CogIntersectTool.Y;
 
-                        _AlgoResultParam.IntersectionX = _CogIntersectTool.X;
-                        _AlgoResultParam.IntersectionY = _CogIntersectTool.Y;
+                        //if (_CogIntersectTool.NumPoints == 1)
+                        if(_CogIntersectTool.LineA != null && _CogIntersectTool.LineB != null)
+                        {
+                            _SendResult.IntersectionX = _CogIntersectTool.X;
+                            _SendResult.IntersectionY = _CogIntersectTool.Y;
+
+                            _AlgoResultParam.IntersectionX = _CogIntersectTool.X;
+                            _AlgoResultParam.IntersectionY = _CogIntersectTool.Y;
+                        }
+                        else
+                        {
+                            _AlgoResultParam.IsGood = false;
+                        }
                     }
 
+                    _SendResParam.IsGood &= _AlgoResultParam.IsGood;
                     _SendResParam.SendResultList[iLoopCount] = _SendResult;
                 }
 

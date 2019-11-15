@@ -161,8 +161,10 @@ namespace MitsubishiCommunicationManager
             //ResultCommData.WordData[PTVAddr.V1_RETRY_CNT] = 0;
             //ResultDataMemoryMapping();
 
-            PLCCommData.WordData[PTVAddr.V1_INSP_REQ] = 1;
-            PLCCommData.WordData[PTVAddr.V1_RETRY_CNT] = 0;
+            //PLCCommData.WordData[PTVAddr.V1_INSP_REQ] = 0;
+            //PLCCommData.WordData[PTVAddr.V1_RETRY_CNT] = 0;
+            PLCCommData.WordData[PTVAddr.V2_INSP_REQ] = 0;
+            PLCCommData.WordData[PTVAddr.V2_RETRY_CNT] = 0;
             ResultDataMemoryMapping();
         }
 

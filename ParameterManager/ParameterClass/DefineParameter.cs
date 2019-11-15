@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ParameterManager
 {
-    public enum eSysMode { AUTO_MODE = 1, MANUAL_MODE = 2, ONESHOT_MODE = 3, TEACH_MODE = 4, LIVE_MODE = 5, RCP_MANUAL_CHANGE = 6, CAL_MODE = 7, CAL1 = 8, CAL2 = 9 }
+    public enum eSysMode { AUTO_MODE = 1, MANUAL_MODE = 2, ONESHOT_MODE = 3, TEACH_MODE = 4, LIVE_MODE = 5, RCP_MANUAL_CHANGE = 6, CAL_MODE = 7 }
 
     /// <summary>
     /// Project Type
@@ -187,6 +187,12 @@ namespace ParameterManager
     public static class PTVAddr
     {
         public const int ALIVE              = 0x00;
+        public const int V1_CURRENT_POS_U   = 0x02;
+        public const int V1_CURRENT_POS_V   = 0x04;
+        public const int V1_CURRENT_POS_W   = 0x06;
+        public const int V2_CURRENT_POS_U   = 0x0A;
+        public const int V2_CURRENT_POS_V   = 0x0C;
+        public const int V2_CURRENT_POS_W   = 0x0E;
         public const int V1_INSP_REQ        = 0x18;
         public const int V1_RETRY_CNT       = 0x19;
         public const int V2_INSP_REQ        = 0x1A;
@@ -208,7 +214,7 @@ namespace ParameterManager
     {
         public const int ALIVE              = 0x00;
         public const int MODE_STATUS        = 0x01;
-
+        public const int V1_RETRY_COUNT     = 0x11;
         public const int V1_ALIGN_POS_U     = 0X12;
         public const int V1_ALIGN_POS_V     = 0x14;
         public const int V1_ALIGN_POS_W     = 0x16;
@@ -216,7 +222,7 @@ namespace ParameterManager
         public const int V1_LAST_POS_V      = 0x1A;
         public const int V1_LAST_POS_W      = 0x1C;
         public const int V1_INSP_RESULT     = 0x1E;
-
+        public const int V2_RETRY_COUNT     = 0x1F;
         public const int V2_ALIGN_POS_U     = 0X20;
         public const int V2_ALIGN_POS_V     = 0x22;
         public const int V2_ALIGN_POS_W     = 0x24;
@@ -232,5 +238,9 @@ namespace ParameterManager
         public const int MANUAL_MODE = 1;
         public const int AUTO_MODE = 2;
         public const int CAL_MODE = 3;
+
+        public const int NG = 1;
+        public const int OK = 2;
+        public const int MOVE = 3;
     }
 }

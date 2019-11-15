@@ -30,11 +30,14 @@ namespace KPVisionInspectionFramework
         public delegate void SendDIOResultHandler(bool _LastResult);
         public event SendDIOResultHandler SendDIOResultEvent;
 
-        public delegate void SendPLCResultHandler(string[] _PLCResult);
+        public delegate void SendPLCResultHandler(object _Command, string _PLCResult);
         public event SendPLCResultHandler SendPLCResultEvent;
 
         public delegate bool RecipeChangeHandler(int _ID, string _RecipeName);
         public event RecipeChangeHandler RecipeChangeEvent;
+
+        public delegate void ResultWndHandler(object _Command);
+        public event ResultWndHandler SendResultWndEvent;
 
         #region Initialize & DeInitialize
         public MainResultBase(string[] _LastRecipeName)
@@ -77,6 +80,7 @@ namespace KPVisionInspectionFramework
                 {
                     MainResultSolarAlignWnd[iLoopCount] = new ucMainResultSolarAlign(LastRecipeName, iLoopCount);
                     MainResultSolarAlignWnd[iLoopCount].PLCResultEvent += new ucMainResultSolarAlign.PLCResultHandler(SendPLCResultEvent);
+                    MainResultSolarAlignWnd[iLoopCount].SendResultWndEvent += new ucMainResultSolarAlign.ResultWndHandler(SendResultWndEvent);
                     panelMain.Controls.Add(MainResultSolarAlignWnd[iLoopCount]);
                     if(iLoopCount == 0) MainResultSolarAlignWnd[iLoopCount].Location = new Point(2, 2);
                     else                MainResultSolarAlignWnd[iLoopCount].Location = new Point(2, 457);
@@ -100,6 +104,14 @@ namespace KPVisionInspectionFramework
             else if (ProjectType == eProjectType.NAVIEN)
             {
                 MainResultNavienWnd.DIOResultEvent -= new ucMainResultNavien.DIOResultHandler(SendDIOResultEvent);
+            }
+            else if (ProjectType == eProjectType.SCALIGN)
+            {
+                for (int iLoopCount = 0; iLoopCount < 2; iLoopCount++)
+                {
+                    MainResultSolarAlignWnd[iLoopCount].PLCResultEvent -= new ucMainResultSolarAlign.PLCResultHandler(SendPLCResultEvent);
+                    MainResultSolarAlignWnd[iLoopCount].SendResultWndEvent -= new ucMainResultSolarAlign.ResultWndHandler(SendResultWndEvent);
+                }
             }
 
             panelMain.Controls.Clear();
@@ -256,10 +268,27 @@ namespace KPVisionInspectionFramework
             return _Result;
         }
 
+        public void SetCalMode()
+        {
+            if (ProjectType == eProjectType.SCALIGN)
+            {
+                MainResultSolarAlignWnd[0].SetCalMode();
+                MainResultSolarAlignWnd[1].SetCalMode();
+            }
+        }
+
         public void SetLastRecipeName(eProjectType _ProjectType, string[] _LastRecipeName)
         {
             if (_ProjectType == eProjectType.NONE)              MainResultNoneWnd.SetLastRecipeName(_LastRecipeName);
             else if (ProjectType == eProjectType.NAVIEN)        MainResultNavienWnd.SetLastRecipeName(_LastRecipeName);
+        }
+
+        public void SetAlignCurrentPosition(int _StageNumber, AlignAxis _PositionValue)
+        {
+            if (ProjectType == eProjectType.SCALIGN)
+            {
+                MainResultSolarAlignWnd[_StageNumber].SetCurrentPosition(_PositionValue);
+            }
         }
         
         private void ScreenShot(string ImageSaveFile)

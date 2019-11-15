@@ -273,7 +273,7 @@ namespace ParameterManager
         //ID
         public string ReadCode;
 
-        //Finde Line
+        //Find Line
         public double IntersectionX;
         public double IntersectionY;
     }

@@ -157,6 +157,14 @@ namespace KPVisionInspectionFramework
 
             else if((int)eProjectType.SCALIGN == ParamManager.SystemParam.ProjectType)
             {
+                rbAlign.Visible = false;
+                rbEthernet.Visible = false;
+                rbSerial.Visible = false;
+                rbDIO.Visible = false;
+                rbConfig.Visible = false;
+                rbMapData.Visible = false;
+                rbHistory.Visible = false;
+                rbFolder.Visible = false;
                 this.Size = new Size(1920, 1080);
             }
 
@@ -205,6 +213,7 @@ namespace KPVisionInspectionFramework
             else if ((eProjectType)ParamManager.SystemParam.ProjectType == eProjectType.SCALIGN)
             {
                 ResultBaseWnd.SendPLCResultEvent += new MainResultBase.SendPLCResultHandler(SendPLCResult);
+                ResultBaseWnd.SendResultWndEvent += new MainResultBase.ResultWndHandler(SendResultWndCommand);
             }
             ResultBaseWnd.Initialize(this, ParamManager.SystemParam.ProjectType);
             ResultBaseWnd.SetWindowLocation(ParamManager.SystemParam.ResultWindowLocationX, ParamManager.SystemParam.ResultWindowLocationY);
@@ -243,6 +252,10 @@ namespace KPVisionInspectionFramework
             else                                                                            MainProcess = new MainProcessBase();
 
             MainProcess.MainProcessCommandEvent += new MainProcessBase.MainProcessCommandHandler(MainProcessCommandEventFunction);
+            if ((int)eProjectType.SCALIGN == ParamManager.SystemParam.ProjectType)
+            {
+                MainProcess.GetReadAlignValueEvent += new MainProcessSolarAlign.GetReadAlignValueHanbdler(GetReadAlignValueEventFunction);
+            }
             MainProcess.Initialize(@"D:\VisionInspectionData\Common\", IsIOBoardUsable, IsEthernetUsable, IsMitsuCommUsable);
             #endregion MainProcess Setting
 
@@ -278,6 +291,14 @@ namespace KPVisionInspectionFramework
             {
                 for (int iLoopCount = 0; iLoopCount < ParamManager.SystemParam.LastRecipeName.Length; ++iLoopCount)
                     ParamManager.SystemParam.LastRecipeName[iLoopCount] = "[Default]";
+
+                ResultBaseWnd.SendDIOResultEvent -= new MainResultBase.SendDIOResultHandler(SendDIOResult);
+                ResultBaseWnd.RecipeChangeEvent -= new MainResultBase.RecipeChangeHandler(RecipeChange);
+            }
+            else if ((int)eProjectType.SCALIGN == ParamManager.SystemParam.ProjectType)
+            {
+                ResultBaseWnd.SendPLCResultEvent -= new MainResultBase.SendPLCResultHandler(SendPLCResult);
+                ResultBaseWnd.SendResultWndEvent -= new MainResultBase.ResultWndHandler(SendResultWndCommand);
             }
 
             ParamManager.DeInitialize();
@@ -287,6 +308,10 @@ namespace KPVisionInspectionFramework
             FolderPathWnd.SetDataPathEvent -= new FolderPathWindow.SetDataPathHandler(SetDataFolderPath);
 
             MainProcess.MainProcessCommandEvent -= new MainProcessBase.MainProcessCommandHandler(MainProcessCommandEventFunction);
+            if ((int)eProjectType.SCALIGN == ParamManager.SystemParam.ProjectType)
+            {
+                MainProcess.GetReadAlignValueEvent -= new MainProcessBase.GetReadAlignValueHanbdler(GetReadAlignValueEventFunction);
+            }
             MainProcess.DeInitialize();
 
             if((int)eProjectType.NONE == ParamManager.SystemParam.ProjectType)              MainProcess.DeInitialize();
@@ -404,26 +429,42 @@ namespace KPVisionInspectionFramework
         }
         #endregion Initialize & DeInitialize
 
-        #region Riboon Button Event
+        #region Ribbon Button Event
         private void rbStart_Click(object sender, EventArgs e)
         {
             //MainProcessStartOn();
             MainProcess.SetModeStatus(VTPAddr.MODE_STATUS, VTPDefine.AUTO_MODE);
+            CParameterManager.SystemMode = eSysMode.AUTO_MODE;
             CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, "MainProcess : AutoMode", CLogManager.LOG_LEVEL.LOW);
+
+            MainProcessReset();
+
+            rbStart.Enabled = false;
+            rbStop.Enabled = true;
+            rbCalibration.Enabled = false;
         }
 
         private void rbStop_Click(object sender, EventArgs e)
         {
+            SetManualMode();
+
+            rbStart.Enabled = true;
+            rbCalibration.Enabled = true;
+        }
+
+        private void SetManualMode()
+        {
             MainProcess.SetModeStatus(VTPAddr.MODE_STATUS, VTPDefine.MANUAL_MODE);
+            CParameterManager.SystemMode = eSysMode.MANUAL_MODE;
             CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, "MainProcess : ManualMode", CLogManager.LOG_LEVEL.LOW);
 
             //for (int iLoopCount = 0; iLoopCount < ParamManager.SystemParam.InspSystemManagerCount; ++iLoopCount)
             //    InspSysManager[iLoopCount].SetSystemMode(eSysMode.MANUAL_MODE);
             //
-            //rbStart.Enabled = true;
+            rbStart.Enabled = true;
+            rbStop.Enabled = true;
             //rbLight.Enabled = true;
             //
-            //CParameterManager.SystemMode = eSysMode.MANUAL_MODE;
             //MainProcess.AutoMode(false);
             //ResultBaseWnd.SetAutoMode(false);
             //CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, "MainProcess AutoMode STOP", CLogManager.LOG_LEVEL.MID);
@@ -431,8 +472,12 @@ namespace KPVisionInspectionFramework
 
         private void rbCalibration_Click(object sender, EventArgs e)
         {
-            MainProcess.SetModeStatus(VTPAddr.MODE_STATUS, VTPDefine.CAL_MODE);
+            MainProcess.SetModeStatus(VTPAddr.MODE_STATUS, VTPDefine.AUTO_MODE);
             CParameterManager.SystemMode = eSysMode.CAL_MODE;
+            ResultBaseWnd.SetCalMode();
+
+            rbStart.Enabled = false;
+
             CLogManager.AddSystemLog(CLogManager.LOG_TYPE.INFO, "MainProcess : CalibrationMode", CLogManager.LOG_LEVEL.LOW);
         }
 
@@ -573,7 +618,7 @@ namespace KPVisionInspectionFramework
             }
         }
         #endregion Label Invoke
-        #endregion Riboon Button Event
+        #endregion Ribbon Button Event
 
         #region Event : Inspection System Manager Event & Function
         private void InspectionSystemManagerEventFunction(eISMCMD _Command, object _Value = null, int _ID = 0)
@@ -648,7 +693,7 @@ namespace KPVisionInspectionFramework
             switch (_BitNum)
             {
                 //case DIO_DEF.IN_TRG1:   MainProcess.TriggerOn(InspSysManager, 0);  break;
-                //case DIO_DEF.IN_RESET:  MainProcess.Reset(); break;
+                //case DIO_DEF.IN_RESET:  MainProcess.Reset(_BitNum); break;
             }
         }
         #endregion Event : I/O Event & Function
@@ -758,7 +803,7 @@ namespace KPVisionInspectionFramework
             switch (_MainProcCmd)
             {
                 case eMainProcCmd.TRG:          MainProcessTriggerOn(_Value);    break;
-                case eMainProcCmd.CAL:          MainProcessTriggerOn(_Value); break;
+                case eMainProcCmd.CAL:          MainProcessTriggerOn(_Value);    break;
                 case eMainProcCmd.REQUEST:      MainProcessDataRequest(_Value);  break;
                 case eMainProcCmd.RCP_CHANGE:   MainProcessRcpChange(_Value);    break;
                 case eMainProcCmd.RECV_DATA:    MainProcessEthernetRecv(_Value); break;
@@ -867,6 +912,17 @@ namespace KPVisionInspectionFramework
             }
         }
 
+        private void MainProcessReset()
+        {
+            if ((int)eProjectType.SCALIGN == ParamManager.SystemParam.ProjectType)
+            {
+                for (int iLoopCount = 0; iLoopCount < 2; iLoopCount++)
+                {
+                    MainProcess.Reset(iLoopCount + 1);
+                }
+            }
+        }
+
         private void SendResultData(object _Result)
         {
             SendResultParameter _SendResParam = _Result as SendResultParameter;
@@ -925,10 +981,37 @@ namespace KPVisionInspectionFramework
             }
         }
 
-        private void SendPLCResult(string[] _PLCResult)
+        private void SendPLCResult(object _Command, string _PLCResult)
         {
+            if (VTPAddr.V1_INSP_RESULT == (int)_Command || VTPAddr.V2_INSP_RESULT == (int)_Command)
+            {
+                MainProcess.SetResult((int)_Command, Convert.ToInt16(_PLCResult));
+            }
 
+            else
+            {
+                int _ResultData = Convert.ToInt32(Convert.ToDouble(_PLCResult) * 10);
+                string _ResultBitData = Convert.ToString(_ResultData, 2);
+
+                for (int iLoopCount = _ResultBitData.Length; iLoopCount < 32; ++iLoopCount) _ResultBitData = "0" + _ResultBitData;
+                string _ResultHiBit = _ResultBitData.Substring(0, _ResultBitData.Length - 16);
+                string _ResultLowBit = _ResultBitData.Substring(_ResultBitData.Length - 16, 16);
+                short _ResultHiDec = Convert.ToInt16(_ResultHiBit, 2);
+                short _ResultLowDec = Convert.ToInt16(_ResultLowBit, 2);
+
+                MainProcess.SetDWordResult((int)_Command, _ResultLowDec, _ResultHiDec);
+            }
         }
-#endregion Main Process
+
+        private void SendResultWndCommand(object _Command)
+        {
+            if((eSysMode)_Command == eSysMode.MANUAL_MODE) SetManualMode();
+        }
+
+        private void GetReadAlignValueEventFunction(int _StageNumber, AlignAxis _AxisValue)
+        {
+            ResultBaseWnd.SetAlignCurrentPosition(_StageNumber, _AxisValue);
+        }
+        #endregion Main Process
     }
 }

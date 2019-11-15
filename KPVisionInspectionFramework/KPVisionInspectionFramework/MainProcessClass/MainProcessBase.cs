@@ -14,9 +14,12 @@ namespace KPVisionInspectionFramework
         public delegate void MainProcessCommandHandler(eMainProcCmd _MainCmd, object _Value);
         public event MainProcessCommandHandler MainProcessCommandEvent;
 
+        public delegate void GetReadAlignValueHanbdler(int _StagetNumber, AlignAxis _AxisValue);
+        public event GetReadAlignValueHanbdler GetReadAlignValueEvent;
+
         public virtual void Initialize(string _CommonFolderPath, bool _IsIOBoardUsable, bool _IsEthernetUsable, bool _IsMitsuCommUsable)
         {
-
+            //GetReadAlignValueEvent 
         }
 
         public virtual void DeInitialize()
@@ -88,6 +91,11 @@ namespace KPVisionInspectionFramework
         {
 
         }
+
+        public virtual void SetDWordResult(int _Addr, short _LowValue, short _HiValue)
+        {
+
+        }
         #endregion
 
         #region Serial Window Function
@@ -152,6 +160,12 @@ namespace KPVisionInspectionFramework
         public virtual bool AutoMode(bool _Flag)
         {
             return true;
+        }
+
+        protected virtual void GetReadAlignValue(int _StagetNumber, AlignAxis _AxisValue)
+        {
+            var _GetReadAlignValueEvent = GetReadAlignValueEvent;
+            _GetReadAlignValueEvent?.Invoke(_StagetNumber, _AxisValue);
         }
         #endregion Main sequence process
     }

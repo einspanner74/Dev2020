@@ -25,25 +25,25 @@
             this.labelTitle = new System.Windows.Forms.Label();
             this.panelMain = new System.Windows.Forms.Panel();
             this.label35 = new System.Windows.Forms.Label();
-            this.numericUpDown6 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDownPinJointW = new System.Windows.Forms.NumericUpDown();
             this.label32 = new System.Windows.Forms.Label();
-            this.numericUpDown5 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDownPinJointV = new System.Windows.Forms.NumericUpDown();
             this.label31 = new System.Windows.Forms.Label();
-            this.numericUpDown4 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDownPinJointU = new System.Windows.Forms.NumericUpDown();
             this.label29 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
-            this.numericUpDown3 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDownRadius = new System.Windows.Forms.NumericUpDown();
             this.label27 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxCurrentPosW = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDownYOffsetValue = new System.Windows.Forms.NumericUpDown();
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDownYPermitValue = new System.Windows.Forms.NumericUpDown();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.btnCancel = new System.Windows.Forms.Button();
@@ -61,8 +61,8 @@
             this.textBoxCetnerX = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.textBoxCurrentPosT = new System.Windows.Forms.TextBox();
-            this.textBoxCurrentPosX = new System.Windows.Forms.TextBox();
+            this.textBoxCurrentPosV = new System.Windows.Forms.TextBox();
+            this.textBoxCurrentPosU = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
@@ -83,12 +83,12 @@
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.panelMain.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointW)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointV)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointU)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownRadius)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownYOffsetValue)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownYPermitValue)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownMarkDistance)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTOffsetValue)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownXOffsetValue)).BeginInit();
@@ -115,25 +115,25 @@
             // panelMain
             // 
             this.panelMain.Controls.Add(this.label35);
-            this.panelMain.Controls.Add(this.numericUpDown6);
+            this.panelMain.Controls.Add(this.numericUpDownPinJointW);
             this.panelMain.Controls.Add(this.label32);
-            this.panelMain.Controls.Add(this.numericUpDown5);
+            this.panelMain.Controls.Add(this.numericUpDownPinJointV);
             this.panelMain.Controls.Add(this.label31);
-            this.panelMain.Controls.Add(this.numericUpDown4);
+            this.panelMain.Controls.Add(this.numericUpDownPinJointU);
             this.panelMain.Controls.Add(this.label29);
             this.panelMain.Controls.Add(this.label30);
             this.panelMain.Controls.Add(this.label33);
             this.panelMain.Controls.Add(this.label34);
             this.panelMain.Controls.Add(this.label28);
-            this.panelMain.Controls.Add(this.numericUpDown3);
+            this.panelMain.Controls.Add(this.numericUpDownRadius);
             this.panelMain.Controls.Add(this.label27);
             this.panelMain.Controls.Add(this.label12);
-            this.panelMain.Controls.Add(this.textBox1);
+            this.panelMain.Controls.Add(this.textBoxCurrentPosW);
             this.panelMain.Controls.Add(this.label14);
-            this.panelMain.Controls.Add(this.numericUpDown2);
+            this.panelMain.Controls.Add(this.numericUpDownYOffsetValue);
             this.panelMain.Controls.Add(this.label25);
             this.panelMain.Controls.Add(this.label26);
-            this.panelMain.Controls.Add(this.numericUpDown1);
+            this.panelMain.Controls.Add(this.numericUpDownYPermitValue);
             this.panelMain.Controls.Add(this.label23);
             this.panelMain.Controls.Add(this.label24);
             this.panelMain.Controls.Add(this.btnCancel);
@@ -151,8 +151,8 @@
             this.panelMain.Controls.Add(this.textBoxCetnerX);
             this.panelMain.Controls.Add(this.label2);
             this.panelMain.Controls.Add(this.label10);
-            this.panelMain.Controls.Add(this.textBoxCurrentPosT);
-            this.panelMain.Controls.Add(this.textBoxCurrentPosX);
+            this.panelMain.Controls.Add(this.textBoxCurrentPosV);
+            this.panelMain.Controls.Add(this.textBoxCurrentPosU);
             this.panelMain.Controls.Add(this.label11);
             this.panelMain.Controls.Add(this.label17);
             this.panelMain.Controls.Add(this.label15);
@@ -192,31 +192,31 @@
             this.label35.Text = "Align Properties";
             this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // numericUpDown6
+            // numericUpDownPinJointW
             // 
-            this.numericUpDown6.DecimalPlaces = 2;
-            this.numericUpDown6.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown6.Increment = new decimal(new int[] {
+            this.numericUpDownPinJointW.DecimalPlaces = 2;
+            this.numericUpDownPinJointW.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDownPinJointW.Increment = new decimal(new int[] {
             1,
             0,
             0,
             196608});
-            this.numericUpDown6.Location = new System.Drawing.Point(141, 100);
-            this.numericUpDown6.Maximum = new decimal(new int[] {
+            this.numericUpDownPinJointW.Location = new System.Drawing.Point(141, 100);
+            this.numericUpDownPinJointW.Maximum = new decimal(new int[] {
             360,
             0,
             0,
             0});
-            this.numericUpDown6.Minimum = new decimal(new int[] {
+            this.numericUpDownPinJointW.Minimum = new decimal(new int[] {
             360,
             0,
             0,
             -2147483648});
-            this.numericUpDown6.Name = "numericUpDown6";
-            this.numericUpDown6.Size = new System.Drawing.Size(104, 20);
-            this.numericUpDown6.TabIndex = 108;
-            this.numericUpDown6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.numericUpDown6.Value = new decimal(new int[] {
+            this.numericUpDownPinJointW.Name = "numericUpDownPinJointW";
+            this.numericUpDownPinJointW.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDownPinJointW.TabIndex = 108;
+            this.numericUpDownPinJointW.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDownPinJointW.Value = new decimal(new int[] {
             135,
             0,
             0,
@@ -233,31 +233,31 @@
             this.label32.TabIndex = 109;
             this.label32.Text = "˚";
             // 
-            // numericUpDown5
+            // numericUpDownPinJointV
             // 
-            this.numericUpDown5.DecimalPlaces = 2;
-            this.numericUpDown5.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown5.Increment = new decimal(new int[] {
+            this.numericUpDownPinJointV.DecimalPlaces = 2;
+            this.numericUpDownPinJointV.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDownPinJointV.Increment = new decimal(new int[] {
             1,
             0,
             0,
             196608});
-            this.numericUpDown5.Location = new System.Drawing.Point(141, 77);
-            this.numericUpDown5.Maximum = new decimal(new int[] {
+            this.numericUpDownPinJointV.Location = new System.Drawing.Point(141, 77);
+            this.numericUpDownPinJointV.Maximum = new decimal(new int[] {
             360,
             0,
             0,
             0});
-            this.numericUpDown5.Minimum = new decimal(new int[] {
+            this.numericUpDownPinJointV.Minimum = new decimal(new int[] {
             360,
             0,
             0,
             -2147483648});
-            this.numericUpDown5.Name = "numericUpDown5";
-            this.numericUpDown5.Size = new System.Drawing.Size(104, 20);
-            this.numericUpDown5.TabIndex = 106;
-            this.numericUpDown5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.numericUpDown5.Value = new decimal(new int[] {
+            this.numericUpDownPinJointV.Name = "numericUpDownPinJointV";
+            this.numericUpDownPinJointV.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDownPinJointV.TabIndex = 106;
+            this.numericUpDownPinJointV.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDownPinJointV.Value = new decimal(new int[] {
             135,
             0,
             0,
@@ -274,31 +274,31 @@
             this.label31.TabIndex = 107;
             this.label31.Text = "˚";
             // 
-            // numericUpDown4
+            // numericUpDownPinJointU
             // 
-            this.numericUpDown4.DecimalPlaces = 2;
-            this.numericUpDown4.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown4.Increment = new decimal(new int[] {
+            this.numericUpDownPinJointU.DecimalPlaces = 2;
+            this.numericUpDownPinJointU.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDownPinJointU.Increment = new decimal(new int[] {
             1,
             0,
             0,
             196608});
-            this.numericUpDown4.Location = new System.Drawing.Point(141, 53);
-            this.numericUpDown4.Maximum = new decimal(new int[] {
+            this.numericUpDownPinJointU.Location = new System.Drawing.Point(141, 53);
+            this.numericUpDownPinJointU.Maximum = new decimal(new int[] {
             360,
             0,
             0,
             0});
-            this.numericUpDown4.Minimum = new decimal(new int[] {
+            this.numericUpDownPinJointU.Minimum = new decimal(new int[] {
             360,
             0,
             0,
             -2147483648});
-            this.numericUpDown4.Name = "numericUpDown4";
-            this.numericUpDown4.Size = new System.Drawing.Size(104, 20);
-            this.numericUpDown4.TabIndex = 104;
-            this.numericUpDown4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.numericUpDown4.Value = new decimal(new int[] {
+            this.numericUpDownPinJointU.Name = "numericUpDownPinJointU";
+            this.numericUpDownPinJointU.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDownPinJointU.TabIndex = 104;
+            this.numericUpDownPinJointU.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDownPinJointU.Value = new decimal(new int[] {
             45,
             0,
             0,
@@ -365,26 +365,26 @@
             this.label28.TabIndex = 96;
             this.label28.Text = "mm";
             // 
-            // numericUpDown3
+            // numericUpDownRadius
             // 
-            this.numericUpDown3.DecimalPlaces = 3;
-            this.numericUpDown3.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown3.Increment = new decimal(new int[] {
+            this.numericUpDownRadius.DecimalPlaces = 3;
+            this.numericUpDownRadius.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDownRadius.Increment = new decimal(new int[] {
             0,
             0,
             0,
             0});
-            this.numericUpDown3.Location = new System.Drawing.Point(141, 27);
-            this.numericUpDown3.Maximum = new decimal(new int[] {
+            this.numericUpDownRadius.Location = new System.Drawing.Point(141, 27);
+            this.numericUpDownRadius.Maximum = new decimal(new int[] {
             10000000,
             0,
             0,
             0});
-            this.numericUpDown3.Name = "numericUpDown3";
-            this.numericUpDown3.Size = new System.Drawing.Size(104, 21);
-            this.numericUpDown3.TabIndex = 95;
-            this.numericUpDown3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.numericUpDown3.Value = new decimal(new int[] {
+            this.numericUpDownRadius.Name = "numericUpDownRadius";
+            this.numericUpDownRadius.Size = new System.Drawing.Size(104, 21);
+            this.numericUpDownRadius.TabIndex = 95;
+            this.numericUpDownRadius.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDownRadius.Value = new decimal(new int[] {
             100125,
             0,
             0,
@@ -414,18 +414,18 @@
             this.label12.TabIndex = 93;
             this.label12.Text = "mm";
             // 
-            // textBox1
+            // textBoxCurrentPosW
             // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.textBox1.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBox1.Location = new System.Drawing.Point(483, 146);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(104, 21);
-            this.textBox1.TabIndex = 92;
-            this.textBox1.Text = "10000.1001";
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBoxCurrentPosW.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.textBoxCurrentPosW.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxCurrentPosW.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.textBoxCurrentPosW.Location = new System.Drawing.Point(483, 146);
+            this.textBoxCurrentPosW.Name = "textBoxCurrentPosW";
+            this.textBoxCurrentPosW.ReadOnly = true;
+            this.textBoxCurrentPosW.Size = new System.Drawing.Size(104, 21);
+            this.textBoxCurrentPosW.TabIndex = 92;
+            this.textBoxCurrentPosW.Text = "10000.1001";
+            this.textBoxCurrentPosW.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label14
             // 
@@ -440,31 +440,31 @@
             this.label14.Text = " W - Crurrent Pos";
             this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // numericUpDown2
+            // numericUpDownYOffsetValue
             // 
-            this.numericUpDown2.DecimalPlaces = 4;
-            this.numericUpDown2.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown2.Increment = new decimal(new int[] {
+            this.numericUpDownYOffsetValue.DecimalPlaces = 4;
+            this.numericUpDownYOffsetValue.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDownYOffsetValue.Increment = new decimal(new int[] {
             1,
             0,
             0,
             262144});
-            this.numericUpDown2.Location = new System.Drawing.Point(141, 256);
-            this.numericUpDown2.Maximum = new decimal(new int[] {
+            this.numericUpDownYOffsetValue.Location = new System.Drawing.Point(141, 256);
+            this.numericUpDownYOffsetValue.Maximum = new decimal(new int[] {
             20,
             0,
             0,
             0});
-            this.numericUpDown2.Minimum = new decimal(new int[] {
+            this.numericUpDownYOffsetValue.Minimum = new decimal(new int[] {
             20,
             0,
             0,
             -2147483648});
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(104, 20);
-            this.numericUpDown2.TabIndex = 89;
-            this.numericUpDown2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.numericUpDown2.Value = new decimal(new int[] {
+            this.numericUpDownYOffsetValue.Name = "numericUpDownYOffsetValue";
+            this.numericUpDownYOffsetValue.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDownYOffsetValue.TabIndex = 89;
+            this.numericUpDownYOffsetValue.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDownYOffsetValue.Value = new decimal(new int[] {
             1,
             0,
             0,
@@ -494,26 +494,26 @@
             this.label26.TabIndex = 90;
             this.label26.Text = "mm";
             // 
-            // numericUpDown1
+            // numericUpDownYPermitValue
             // 
-            this.numericUpDown1.DecimalPlaces = 4;
-            this.numericUpDown1.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDown1.Increment = new decimal(new int[] {
+            this.numericUpDownYPermitValue.DecimalPlaces = 4;
+            this.numericUpDownYPermitValue.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDownYPermitValue.Increment = new decimal(new int[] {
             1,
             0,
             0,
             262144});
-            this.numericUpDown1.Location = new System.Drawing.Point(141, 189);
-            this.numericUpDown1.Maximum = new decimal(new int[] {
+            this.numericUpDownYPermitValue.Location = new System.Drawing.Point(141, 189);
+            this.numericUpDownYPermitValue.Maximum = new decimal(new int[] {
             5,
             0,
             0,
             0});
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(104, 20);
-            this.numericUpDown1.TabIndex = 86;
-            this.numericUpDown1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.numericUpDown1.Value = new decimal(new int[] {
+            this.numericUpDownYPermitValue.Name = "numericUpDownYPermitValue";
+            this.numericUpDownYPermitValue.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDownYPermitValue.TabIndex = 86;
+            this.numericUpDownYPermitValue.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDownYPermitValue.Value = new decimal(new int[] {
             1,
             0,
             0,
@@ -600,6 +600,7 @@
             this.btnPositionSave.TabIndex = 80;
             this.btnPositionSave.Text = "Data Save";
             this.btnPositionSave.UseVisualStyleBackColor = true;
+            this.btnPositionSave.Click += new System.EventHandler(this.btnPositionSave_Click);
             // 
             // btnConfirm
             // 
@@ -730,31 +731,31 @@
             this.label10.TabIndex = 71;
             this.label10.Text = "mm";
             // 
-            // textBoxCurrentPosT
+            // textBoxCurrentPosV
             // 
-            this.textBoxCurrentPosT.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.textBoxCurrentPosT.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxCurrentPosT.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCurrentPosT.Location = new System.Drawing.Point(483, 122);
-            this.textBoxCurrentPosT.Name = "textBoxCurrentPosT";
-            this.textBoxCurrentPosT.ReadOnly = true;
-            this.textBoxCurrentPosT.Size = new System.Drawing.Size(104, 21);
-            this.textBoxCurrentPosT.TabIndex = 67;
-            this.textBoxCurrentPosT.Text = "10000.1001";
-            this.textBoxCurrentPosT.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBoxCurrentPosV.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.textBoxCurrentPosV.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxCurrentPosV.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.textBoxCurrentPosV.Location = new System.Drawing.Point(483, 122);
+            this.textBoxCurrentPosV.Name = "textBoxCurrentPosV";
+            this.textBoxCurrentPosV.ReadOnly = true;
+            this.textBoxCurrentPosV.Size = new System.Drawing.Size(104, 21);
+            this.textBoxCurrentPosV.TabIndex = 67;
+            this.textBoxCurrentPosV.Text = "10000.1001";
+            this.textBoxCurrentPosV.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // textBoxCurrentPosX
+            // textBoxCurrentPosU
             // 
-            this.textBoxCurrentPosX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.textBoxCurrentPosX.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxCurrentPosX.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCurrentPosX.Location = new System.Drawing.Point(483, 99);
-            this.textBoxCurrentPosX.Name = "textBoxCurrentPosX";
-            this.textBoxCurrentPosX.ReadOnly = true;
-            this.textBoxCurrentPosX.Size = new System.Drawing.Size(104, 21);
-            this.textBoxCurrentPosX.TabIndex = 68;
-            this.textBoxCurrentPosX.Text = "10000.1001";
-            this.textBoxCurrentPosX.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBoxCurrentPosU.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.textBoxCurrentPosU.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxCurrentPosU.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.textBoxCurrentPosU.Location = new System.Drawing.Point(483, 99);
+            this.textBoxCurrentPosU.Name = "textBoxCurrentPosU";
+            this.textBoxCurrentPosU.ReadOnly = true;
+            this.textBoxCurrentPosU.Size = new System.Drawing.Size(104, 21);
+            this.textBoxCurrentPosU.TabIndex = 68;
+            this.textBoxCurrentPosU.Text = "10000.1001";
+            this.textBoxCurrentPosU.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label11
             // 
@@ -1060,12 +1061,12 @@
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ucResultConditionAlign_KeyDown);
             this.panelMain.ResumeLayout(false);
             this.panelMain.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointW)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointV)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointU)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownRadius)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownYOffsetValue)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownYPermitValue)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownMarkDistance)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTOffsetValue)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownXOffsetValue)).EndInit();
@@ -1103,8 +1104,8 @@
         private System.Windows.Forms.TextBox textBoxCetnerY;
         private System.Windows.Forms.TextBox textBoxCetnerX;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBoxCurrentPosT;
-        private System.Windows.Forms.TextBox textBoxCurrentPosX;
+        private System.Windows.Forms.TextBox textBoxCurrentPosV;
+        private System.Windows.Forms.TextBox textBoxCurrentPosU;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label15;
@@ -1112,27 +1113,27 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.NumericUpDown numericUpDownYOffsetValue;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown numericUpDownYPermitValue;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxCurrentPosW;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.NumericUpDown numericUpDown6;
+        private System.Windows.Forms.NumericUpDown numericUpDownPinJointW;
         private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.NumericUpDown numericUpDown5;
+        private System.Windows.Forms.NumericUpDown numericUpDownPinJointV;
         private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.NumericUpDown numericUpDown4;
+        private System.Windows.Forms.NumericUpDown numericUpDownPinJointU;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
         private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.NumericUpDown numericUpDown3;
+        private System.Windows.Forms.NumericUpDown numericUpDownRadius;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label35;
     }
