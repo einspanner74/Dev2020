@@ -60,7 +60,7 @@ namespace KPVisionInspectionFramework
             ResConAlignWnd = new ResultConditionAlign(_StageID);
 
             UVWProcess = new UVW();
-            UVWProcess.Initialize(1,1,1);
+            UVWProcess.Initialize(_StageID, 1, 1,1);
 
             InitializeComponent();
 

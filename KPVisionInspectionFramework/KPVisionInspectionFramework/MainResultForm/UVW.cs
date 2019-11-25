@@ -8,6 +8,9 @@ namespace KPVisionInspectionFramework
 {
     public class UVW
     {
+        //Stage 번호
+        private int StageNum;
+
         //Stage 거리
         private double StageDistanceWidth;
         private double StageDistanceHeight;
@@ -37,19 +40,26 @@ namespace KPVisionInspectionFramework
 
         }
 
-        public void Initialize(int _UAxisDirX, int _UAxisDirY, int _VAxisDirX)
+        public void Initialize(int _StageNum, int _UAxisDirX, int _UAxisDirY, int _VAxisDirX)
         {
+            StageNum = _StageNum;
+
             UAxisDirectionX = _UAxisDirX;
             UAxisDirectionY = _UAxisDirY;
             VAxisDirectionX = _VAxisDirX;
 
-            //CenterToUAxisRealAngle = 225;
-            //CenterToVAxisRealAngle = 315;
-            //CenterToWAxisRealAngle = 135;
-
-            CenterToUAxisRealAngle = 45;
-            CenterToVAxisRealAngle = 135;
-            CenterToWAxisRealAngle = 315;
+            if (StageNum == 0)
+            {
+                CenterToUAxisRealAngle = 225;
+                CenterToVAxisRealAngle = 315;
+                CenterToWAxisRealAngle = 135;
+            }
+            else
+            {
+                CenterToUAxisRealAngle = 45;
+                CenterToVAxisRealAngle = 135;
+                CenterToWAxisRealAngle = 315;
+            }
 
             CenterRadiius = 55;
 
@@ -74,24 +84,27 @@ namespace KPVisionInspectionFramework
             //_V = CenterToVAxisRealDistance * Math.Cos(_MoveDeg + CenterToVAxisRealAngle + CurrentStageAngle) - CenterToVAxisRealDistance * Math.Cos(CenterToVAxisRealAngle + CurrentStageAngle);
             //_W = CenterToWAxisRealDistance * Math.Cos(_MoveDeg + CenterToWAxisRealAngle + CurrentStageAngle) - CenterToWAxisRealDistance * Math.Cos(CenterToWAxisRealAngle + CurrentStageAngle);
 
-            //if... X 축 방향
-            //_V = (1 * _MoveY) + (1 * ((CenterToVAxisRealDistance * Math.Sin(DegToRad(_MoveDeg + CenterToVAxisRealAngle + CurrentStageAngle))) - (CenterToVAxisRealDistance * Math.Sin(DegToRad(CenterToVAxisRealAngle + CurrentStageAngle)))));
+            if (StageNum == 0)
+            {
+                //if... X 축 방향
+                _V = (1 * _MoveY) + (1 * ((CenterToVAxisRealDistance * Math.Sin(DegToRad(_MoveDeg + CenterToVAxisRealAngle + CurrentStageAngle))) - (CenterToVAxisRealDistance * Math.Sin(DegToRad(CenterToVAxisRealAngle + CurrentStageAngle)))));
 
-            ////if... Y1축 방향
-            //_U = (1 * _MoveX) + (1 * ((CenterToUAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToUAxisRealAngle + CurrentStageAngle))) - (CenterToUAxisRealDistance * Math.Cos(DegToRad(CenterToUAxisRealAngle + CurrentStageAngle)))));
+                //if... Y1축 방향
+                _U = (1 * _MoveX) + (1 * ((CenterToUAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToUAxisRealAngle + CurrentStageAngle))) - (CenterToUAxisRealDistance * Math.Cos(DegToRad(CenterToUAxisRealAngle + CurrentStageAngle)))));
 
-            ////if... Y2축 방향
-            //_W = (-1 * _MoveX) + (-1 * ((CenterToWAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToWAxisRealAngle + CurrentStageAngle))) - (CenterToWAxisRealDistance * Math.Cos(DegToRad(CenterToWAxisRealAngle + CurrentStageAngle)))));
+                //if... Y2축 방향
+                _W = (-1 * _MoveX) + (-1 * ((CenterToWAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToWAxisRealAngle + CurrentStageAngle))) - (CenterToWAxisRealDistance * Math.Cos(DegToRad(CenterToWAxisRealAngle + CurrentStageAngle)))));
+            }
+            else
+            {
+                _V = (1 * _MoveY) + (-1 * ((CenterToVAxisRealDistance * Math.Sin(DegToRad(_MoveDeg + CenterToVAxisRealAngle + CurrentStageAngle))) - (CenterToVAxisRealDistance * Math.Sin(DegToRad(CenterToVAxisRealAngle + CurrentStageAngle)))));
 
+                //if... Y1축 방향
+                _U = (1 * _MoveX) + (-1 * ((CenterToUAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToUAxisRealAngle + CurrentStageAngle))) - (CenterToUAxisRealDistance * Math.Cos(DegToRad(CenterToUAxisRealAngle + CurrentStageAngle)))));
 
-
-            _V = (1 * _MoveY) + (-1 * ((CenterToVAxisRealDistance * Math.Sin(DegToRad(_MoveDeg + CenterToVAxisRealAngle + CurrentStageAngle))) - (CenterToVAxisRealDistance * Math.Sin(DegToRad(CenterToVAxisRealAngle + CurrentStageAngle)))));
-
-            //if... Y1축 방향
-            _U = (1 * _MoveX) + (-1 * ((CenterToUAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToUAxisRealAngle + CurrentStageAngle))) - (CenterToUAxisRealDistance * Math.Cos(DegToRad(CenterToUAxisRealAngle + CurrentStageAngle)))));
-
-            //if... Y2축 방향
-            _W = (-1 * _MoveX) + (1 * ((CenterToWAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToWAxisRealAngle + CurrentStageAngle))) - (CenterToWAxisRealDistance * Math.Cos(DegToRad(CenterToWAxisRealAngle + CurrentStageAngle)))));
+                //if... Y2축 방향
+                _W = (-1 * _MoveX) + (1 * ((CenterToWAxisRealDistance * Math.Cos(DegToRad(_MoveDeg + CenterToWAxisRealAngle + CurrentStageAngle))) - (CenterToWAxisRealDistance * Math.Cos(DegToRad(CenterToWAxisRealAngle + CurrentStageAngle)))));
+            }
 
             LastDegree = _MoveDeg;
         }
