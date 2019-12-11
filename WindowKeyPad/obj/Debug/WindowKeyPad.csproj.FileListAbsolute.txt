@@ -530,3 +530,14 @@ D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.Wind
 D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
 D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.dll
 D:\VisionProgram\KPVisionInspection2020\WindowKeyPad\obj\Debug\WindowKeyPad.pdb
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\bin\Debug\WindowKeyPad.dll
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\bin\Debug\WindowKeyPad.pdb
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\bin\Debug\CustomControl.dll
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\bin\Debug\CustomControl.pdb
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.csprojResolveAssemblyReference.cache
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.PasswordChangeWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.Properties.Resources.resources
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.WindowKeypadControl.resources
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.csproj.GenerateResource.Cache
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.dll
+D:\Project\2020\[GIT]Einspanner2020\WindowKeyPad\obj\Debug\WindowKeyPad.pdb

@@ -155,3 +155,14 @@ D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.Se
 D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
 D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.dll
 D:\VisionProgram\KPVisionInspection2020\SerialManager\obj\Debug\SerialManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\bin\Debug\SerialManager.dll
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\bin\Debug\SerialManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\bin\Debug\LogMessageManager.dll
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\bin\Debug\log4net.dll
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\obj\Debug\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\obj\Debug\SerialManager.Properties.Resources.resources
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\obj\Debug\SerialManager.SerialWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\obj\Debug\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\obj\Debug\SerialManager.dll
+D:\Project\2020\[GIT]Einspanner2020\SerialManager\obj\Debug\SerialManager.pdb

@@ -23,12 +23,19 @@ namespace KPVisionInspectionFramework
 
         AlignResultData ResConAlignData = new AlignResultData();
 
-        public delegate void CalibrationHandler(int _AlignDefine);
-        public event CalibrationHandler CalibrationEvent;
+        int StageID;
+
+        public delegate void MaskAlignHandler(object _Command);
+        public event MaskAlignHandler MaskAlignEvent;
+
+        public delegate void GetMaskPositionHandler(int _AlignDefine);
+        public event GetMaskPositionHandler GetMaskPositionEvent;
 
         public ResultConditionAlign(int _StageID)
         {
             InitializeComponent();
+
+            StageID = _StageID;
 
             ProjectItemParameterFullPath = string.Format(@"D:\VisionInspectionData\Common\ProjectItemParameter{0}.Sys", _StageID);            
             Initialize();
@@ -58,6 +65,12 @@ namespace KPVisionInspectionFramework
         public void SetResultConditionAlignWindowTopMost(bool _IsTopMost)
         {
             this.TopMost = _IsTopMost;
+        }
+
+        public void SetMaskPosition(double _MaskPositionX, double _MaskPositionY)
+        {
+            ResConAlignData.MaskPosition.X = _MaskPositionX;
+            ResConAlignData.MaskPosition.Y = _MaskPositionY;
         }
 
         public void SetCalFirstPosition(int _CamNum, double _CamOriginX, double _CamOriginY)
@@ -197,19 +210,20 @@ namespace KPVisionInspectionFramework
         }
         #endregion Control Default Event
 
+        private void btnMaskSet_Click(object sender, EventArgs e)
+        {
+            MaskAlignEvent(8);
+        }
+
         private void btnCalculation_Click(object sender, EventArgs e)
         {
-            var _CalibrationEvent = CalibrationEvent;
-            _CalibrationEvent?.Invoke(AL_DEF.CAL1);
+            var _GetMaskPositionEvent = GetMaskPositionEvent;
+
+            if(StageID == 0) _GetMaskPositionEvent?.Invoke(AL_DEF.CAL2);
+            else             _GetMaskPositionEvent?.Invoke(AL_DEF.CAL1);
         }
 
-        private void btnCalculation2_Click(object sender, EventArgs e)
-        {
-            var _CalibrationEvent = CalibrationEvent;
-            _CalibrationEvent?.Invoke(AL_DEF.CAL2);
-        }
-
-        private void btnCancel_Click(object sender, EventArgs e)
+        private void btnConfirm_Click(object sender, EventArgs e)
         {
             IsShowResultConditionAlignWindow = false;
             this.Hide();
@@ -405,6 +419,8 @@ namespace KPVisionInspectionFramework
         public PointD SecondCamOrigin = new PointD();     //Second Camera Origin
         public PointD FirstCamOriginTemp = new PointD();  //Second Camera Origin Temp
         public PointD SecondCamOriginTemp = new PointD();  //Second Camera Origin Temp
+
+        public PointD MaskPosition = new PointD();
 
         public static PointD DirectionU = new PointD(1, 1);
         public static PointD DirectionV = new PointD(1, 1);

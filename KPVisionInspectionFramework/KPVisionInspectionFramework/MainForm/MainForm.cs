@@ -1005,7 +1005,11 @@ namespace KPVisionInspectionFramework
 
         private void SendResultWndCommand(object _Command)
         {
-            if((eSysMode)_Command == eSysMode.MANUAL_MODE) SetManualMode();
+            switch ((eSysMode)_Command)
+            {
+                case eSysMode.MANUAL_MODE: { SetManualMode(); } break;
+                case eSysMode.MASK_MODE  : { MainProcessTriggerOn(4); MainProcessTriggerOn(5); } break;
+            }
         }
 
         private void GetReadAlignValueEventFunction(int _StageNumber, AlignAxis _AxisValue)

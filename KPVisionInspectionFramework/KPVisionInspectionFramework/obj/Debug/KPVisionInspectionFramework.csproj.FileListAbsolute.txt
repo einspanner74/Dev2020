@@ -348,3 +348,26 @@ D:\VisionProgram\KPVisionInspection2020\KPVisionInspectionFramework\KPVisionInsp
 D:\VisionProgram\KPVisionInspection2020\KPVisionInspectionFramework\KP INT Vision Inspection.exe
 D:\VisionProgram\KPVisionInspection2020\KPVisionInspectionFramework\KP INT Vision Inspection.pdb
 D:\VisionProgram\KPVisionInspection2020\KPVisionInspectionFramework\ko-KR\KP INT Vision Inspection.resources.dll
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KP INT Vision Inspection.exe.config
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KP INT Vision Inspection.exe
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KP INT Vision Inspection.pdb
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.csprojResolveAssemblyReference.cache
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.LanguageResource.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.FolderPathWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.MainForm.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.MainLogoWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.MainResultBase.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.ucMainResultNavien.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.ucMainResultNone.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.NoticeWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.ucMainResultSolarAlign.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.Properties.Resources.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.RecipeWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.RecipeNewNameWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.ResultConditionAlign.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.LanguageResource.ko-KR.resources
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\KPVisionInspectionFramework.csproj.GenerateResource.Cache
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KPVisionInspectionFramework\obj\Debug\ko-KR\KP INT Vision Inspection.resources.dll
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KP INT Vision Inspection.exe
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\KP INT Vision Inspection.pdb
+D:\Project\2020\[GIT]Einspanner2020\KPVisionInspectionFramework\ko-KR\KP INT Vision Inspection.resources.dll

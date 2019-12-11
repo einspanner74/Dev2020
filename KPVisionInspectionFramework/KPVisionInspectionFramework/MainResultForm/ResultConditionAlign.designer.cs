@@ -24,6 +24,16 @@
         {
             this.labelTitle = new System.Windows.Forms.Label();
             this.panelMain = new System.Windows.Forms.Panel();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown3 = new System.Windows.Forms.NumericUpDown();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label36 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.numericUpDownPinJointW = new System.Windows.Forms.NumericUpDown();
             this.label32 = new System.Windows.Forms.Label();
@@ -46,17 +56,14 @@
             this.numericUpDownYPermitValue = new System.Windows.Forms.NumericUpDown();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
-            this.btnCancel = new System.Windows.Forms.Button();
-            this.btnCalculation2 = new System.Windows.Forms.Button();
-            this.btnCalculation = new System.Windows.Forms.Button();
-            this.btnCalMode = new System.Windows.Forms.Button();
-            this.btnPositionSave = new System.Windows.Forms.Button();
             this.btnConfirm = new System.Windows.Forms.Button();
+            this.btnCalculation = new System.Windows.Forms.Button();
+            this.btnMaskSet = new System.Windows.Forms.Button();
+            this.btnPositionSave = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.numericUpDownMarkDistance = new System.Windows.Forms.NumericUpDown();
-            this.btnSavePermitValue = new System.Windows.Forms.Button();
             this.textBoxCetnerY = new System.Windows.Forms.TextBox();
             this.textBoxCetnerX = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -83,6 +90,9 @@
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.panelMain.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointW)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointV)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointU)).BeginInit();
@@ -104,7 +114,7 @@
             this.labelTitle.ForeColor = System.Drawing.Color.White;
             this.labelTitle.Location = new System.Drawing.Point(0, 0);
             this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(899, 30);
+            this.labelTitle.Size = new System.Drawing.Size(850, 30);
             this.labelTitle.TabIndex = 13;
             this.labelTitle.Text = "  Result Condition Window";
             this.labelTitle.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -114,6 +124,16 @@
             // 
             // panelMain
             // 
+            this.panelMain.Controls.Add(this.numericUpDown1);
+            this.panelMain.Controls.Add(this.label37);
+            this.panelMain.Controls.Add(this.label38);
+            this.panelMain.Controls.Add(this.numericUpDown2);
+            this.panelMain.Controls.Add(this.numericUpDown3);
+            this.panelMain.Controls.Add(this.label39);
+            this.panelMain.Controls.Add(this.label40);
+            this.panelMain.Controls.Add(this.label41);
+            this.panelMain.Controls.Add(this.label42);
+            this.panelMain.Controls.Add(this.label36);
             this.panelMain.Controls.Add(this.label35);
             this.panelMain.Controls.Add(this.numericUpDownPinJointW);
             this.panelMain.Controls.Add(this.label32);
@@ -136,17 +156,14 @@
             this.panelMain.Controls.Add(this.numericUpDownYPermitValue);
             this.panelMain.Controls.Add(this.label23);
             this.panelMain.Controls.Add(this.label24);
-            this.panelMain.Controls.Add(this.btnCancel);
-            this.panelMain.Controls.Add(this.btnCalculation2);
-            this.panelMain.Controls.Add(this.btnCalculation);
-            this.panelMain.Controls.Add(this.btnCalMode);
-            this.panelMain.Controls.Add(this.btnPositionSave);
             this.panelMain.Controls.Add(this.btnConfirm);
+            this.panelMain.Controls.Add(this.btnCalculation);
+            this.panelMain.Controls.Add(this.btnMaskSet);
+            this.panelMain.Controls.Add(this.btnPositionSave);
             this.panelMain.Controls.Add(this.label1);
             this.panelMain.Controls.Add(this.label18);
             this.panelMain.Controls.Add(this.label16);
             this.panelMain.Controls.Add(this.numericUpDownMarkDistance);
-            this.panelMain.Controls.Add(this.btnSavePermitValue);
             this.panelMain.Controls.Add(this.textBoxCetnerY);
             this.panelMain.Controls.Add(this.textBoxCetnerX);
             this.panelMain.Controls.Add(this.label2);
@@ -173,11 +190,186 @@
             this.panelMain.Controls.Add(this.label21);
             this.panelMain.Controls.Add(this.label22);
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panelMain.Location = new System.Drawing.Point(0, 33);
+            this.panelMain.Location = new System.Drawing.Point(0, 32);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(899, 439);
+            this.panelMain.Size = new System.Drawing.Size(850, 225);
             this.panelMain.TabIndex = 14;
             this.panelMain.Paint += new System.Windows.Forms.PaintEventHandler(this.panelMain_Paint);
+            // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.DecimalPlaces = 4;
+            this.numericUpDown1.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDown1.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            262144});
+            this.numericUpDown1.Location = new System.Drawing.Point(717, 52);
+            this.numericUpDown1.Maximum = new decimal(new int[] {
+            20,
+            0,
+            0,
+            0});
+            this.numericUpDown1.Minimum = new decimal(new int[] {
+            20,
+            0,
+            0,
+            -2147483648});
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDown1.TabIndex = 119;
+            this.numericUpDown1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDown1.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            -2147221504});
+            // 
+            // label37
+            // 
+            this.label37.BackColor = System.Drawing.Color.SteelBlue;
+            this.label37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label37.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label37.ForeColor = System.Drawing.Color.White;
+            this.label37.Location = new System.Drawing.Point(579, 51);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(132, 22);
+            this.label37.TabIndex = 118;
+            this.label37.Text = " Y Position Value";
+            this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label38.ForeColor = System.Drawing.Color.White;
+            this.label38.Location = new System.Drawing.Point(822, 56);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(25, 12);
+            this.label38.TabIndex = 120;
+            this.label38.Text = "mm";
+            // 
+            // numericUpDown2
+            // 
+            this.numericUpDown2.DecimalPlaces = 4;
+            this.numericUpDown2.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDown2.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            262144});
+            this.numericUpDown2.Location = new System.Drawing.Point(717, 75);
+            this.numericUpDown2.Maximum = new decimal(new int[] {
+            20,
+            0,
+            0,
+            0});
+            this.numericUpDown2.Minimum = new decimal(new int[] {
+            20,
+            0,
+            0,
+            -2147483648});
+            this.numericUpDown2.Name = "numericUpDown2";
+            this.numericUpDown2.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDown2.TabIndex = 114;
+            this.numericUpDown2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDown2.Value = new decimal(new int[] {
+            2,
+            0,
+            0,
+            -2147221504});
+            // 
+            // numericUpDown3
+            // 
+            this.numericUpDown3.DecimalPlaces = 4;
+            this.numericUpDown3.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDown3.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            262144});
+            this.numericUpDown3.Location = new System.Drawing.Point(717, 29);
+            this.numericUpDown3.Maximum = new decimal(new int[] {
+            20,
+            0,
+            0,
+            0});
+            this.numericUpDown3.Minimum = new decimal(new int[] {
+            20,
+            0,
+            0,
+            -2147483648});
+            this.numericUpDown3.Name = "numericUpDown3";
+            this.numericUpDown3.Size = new System.Drawing.Size(104, 20);
+            this.numericUpDown3.TabIndex = 115;
+            this.numericUpDown3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.numericUpDown3.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            -2147221504});
+            // 
+            // label39
+            // 
+            this.label39.BackColor = System.Drawing.Color.SteelBlue;
+            this.label39.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label39.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label39.ForeColor = System.Drawing.Color.White;
+            this.label39.Location = new System.Drawing.Point(579, 74);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(132, 22);
+            this.label39.TabIndex = 113;
+            this.label39.Text = "ϴ Position Value";
+            this.label39.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label40
+            // 
+            this.label40.BackColor = System.Drawing.Color.SteelBlue;
+            this.label40.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label40.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label40.ForeColor = System.Drawing.Color.White;
+            this.label40.Location = new System.Drawing.Point(579, 28);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(132, 22);
+            this.label40.TabIndex = 112;
+            this.label40.Text = " X Position Value";
+            this.label40.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label41
+            // 
+            this.label41.AutoSize = true;
+            this.label41.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label41.ForeColor = System.Drawing.Color.White;
+            this.label41.Location = new System.Drawing.Point(822, 80);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(15, 12);
+            this.label41.TabIndex = 116;
+            this.label41.Text = "˚";
+            // 
+            // label42
+            // 
+            this.label42.AutoSize = true;
+            this.label42.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label42.ForeColor = System.Drawing.Color.White;
+            this.label42.Location = new System.Drawing.Point(822, 33);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(25, 12);
+            this.label42.TabIndex = 117;
+            this.label42.Text = "mm";
+            // 
+            // label36
+            // 
+            this.label36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label36.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label36.ForeColor = System.Drawing.Color.White;
+            this.label36.Location = new System.Drawing.Point(579, 3);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(268, 22);
+            this.label36.TabIndex = 111;
+            this.label36.Text = "Mask Properties";
+            this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label35
             // 
@@ -185,7 +377,7 @@
             this.label35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label35.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label35.ForeColor = System.Drawing.Color.White;
-            this.label35.Location = new System.Drawing.Point(3, 139);
+            this.label35.Location = new System.Drawing.Point(3, 127);
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(273, 22);
             this.label35.TabIndex = 110;
@@ -227,7 +419,7 @@
             this.label32.AutoSize = true;
             this.label32.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label32.ForeColor = System.Drawing.Color.White;
-            this.label32.Location = new System.Drawing.Point(251, 105);
+            this.label32.Location = new System.Drawing.Point(246, 105);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(15, 12);
             this.label32.TabIndex = 109;
@@ -268,7 +460,7 @@
             this.label31.AutoSize = true;
             this.label31.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.ForeColor = System.Drawing.Color.White;
-            this.label31.Location = new System.Drawing.Point(251, 82);
+            this.label31.Location = new System.Drawing.Point(246, 82);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(15, 12);
             this.label31.TabIndex = 107;
@@ -309,7 +501,7 @@
             this.label29.AutoSize = true;
             this.label29.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.White;
-            this.label29.Location = new System.Drawing.Point(251, 58);
+            this.label29.Location = new System.Drawing.Point(246, 58);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(15, 12);
             this.label29.TabIndex = 105;
@@ -359,7 +551,7 @@
             this.label28.AutoSize = true;
             this.label28.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.ForeColor = System.Drawing.Color.White;
-            this.label28.Location = new System.Drawing.Point(251, 32);
+            this.label28.Location = new System.Drawing.Point(246, 32);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(25, 12);
             this.label28.TabIndex = 96;
@@ -408,7 +600,7 @@
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.White;
-            this.label12.Location = new System.Drawing.Point(588, 150);
+            this.label12.Location = new System.Drawing.Point(537, 150);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(25, 12);
             this.label12.TabIndex = 93;
@@ -419,7 +611,7 @@
             this.textBoxCurrentPosW.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.textBoxCurrentPosW.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCurrentPosW.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCurrentPosW.Location = new System.Drawing.Point(483, 146);
+            this.textBoxCurrentPosW.Location = new System.Drawing.Point(432, 146);
             this.textBoxCurrentPosW.Name = "textBoxCurrentPosW";
             this.textBoxCurrentPosW.ReadOnly = true;
             this.textBoxCurrentPosW.Size = new System.Drawing.Size(104, 21);
@@ -433,7 +625,7 @@
             this.label14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label14.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label14.ForeColor = System.Drawing.Color.White;
-            this.label14.Location = new System.Drawing.Point(345, 145);
+            this.label14.Location = new System.Drawing.Point(294, 145);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(132, 22);
             this.label14.TabIndex = 91;
@@ -449,7 +641,7 @@
             0,
             0,
             262144});
-            this.numericUpDownYOffsetValue.Location = new System.Drawing.Point(141, 256);
+            this.numericUpDownYOffsetValue.Location = new System.Drawing.Point(717, 121);
             this.numericUpDownYOffsetValue.Maximum = new decimal(new int[] {
             20,
             0,
@@ -476,7 +668,7 @@
             this.label25.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label25.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label25.ForeColor = System.Drawing.Color.White;
-            this.label25.Location = new System.Drawing.Point(3, 255);
+            this.label25.Location = new System.Drawing.Point(579, 120);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(132, 22);
             this.label25.TabIndex = 88;
@@ -488,7 +680,7 @@
             this.label26.AutoSize = true;
             this.label26.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.ForeColor = System.Drawing.Color.White;
-            this.label26.Location = new System.Drawing.Point(251, 260);
+            this.label26.Location = new System.Drawing.Point(822, 125);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(25, 12);
             this.label26.TabIndex = 90;
@@ -503,7 +695,7 @@
             0,
             0,
             262144});
-            this.numericUpDownYPermitValue.Location = new System.Drawing.Point(141, 189);
+            this.numericUpDownYPermitValue.Location = new System.Drawing.Point(141, 177);
             this.numericUpDownYPermitValue.Maximum = new decimal(new int[] {
             5,
             0,
@@ -525,7 +717,7 @@
             this.label23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label23.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label23.ForeColor = System.Drawing.Color.White;
-            this.label23.Location = new System.Drawing.Point(3, 186);
+            this.label23.Location = new System.Drawing.Point(3, 174);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(132, 22);
             this.label23.TabIndex = 85;
@@ -537,88 +729,68 @@
             this.label24.AutoSize = true;
             this.label24.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.ForeColor = System.Drawing.Color.White;
-            this.label24.Location = new System.Drawing.Point(251, 192);
+            this.label24.Location = new System.Drawing.Point(246, 180);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(25, 12);
             this.label24.TabIndex = 87;
             this.label24.Text = "mm";
             // 
-            // btnCancel
+            // btnConfirm
             // 
-            this.btnCancel.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.btnCancel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCancel.Location = new System.Drawing.Point(427, 265);
-            this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(82, 24);
-            this.btnCancel.TabIndex = 84;
-            this.btnCancel.Text = "Cancel";
-            this.btnCancel.UseVisualStyleBackColor = true;
-            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
-            // 
-            // btnCalculation2
-            // 
-            this.btnCalculation2.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.btnCalculation2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCalculation2.Location = new System.Drawing.Point(755, 254);
-            this.btnCalculation2.Name = "btnCalculation2";
-            this.btnCalculation2.Size = new System.Drawing.Size(82, 24);
-            this.btnCalculation2.TabIndex = 83;
-            this.btnCalculation2.Text = "Calculate 2";
-            this.btnCalculation2.UseVisualStyleBackColor = true;
-            this.btnCalculation2.Click += new System.EventHandler(this.btnCalculation2_Click);
+            this.btnConfirm.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.btnConfirm.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnConfirm.Location = new System.Drawing.Point(480, 179);
+            this.btnConfirm.Name = "btnConfirm";
+            this.btnConfirm.Size = new System.Drawing.Size(82, 40);
+            this.btnConfirm.TabIndex = 84;
+            this.btnConfirm.Text = "Confirm";
+            this.btnConfirm.UseVisualStyleBackColor = true;
+            this.btnConfirm.Click += new System.EventHandler(this.btnConfirm_Click);
             // 
             // btnCalculation
             // 
+            this.btnCalculation.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.btnCalculation.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btnCalculation.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCalculation.Location = new System.Drawing.Point(755, 230);
+            this.btnCalculation.Location = new System.Drawing.Point(763, 180);
             this.btnCalculation.Name = "btnCalculation";
-            this.btnCalculation.Size = new System.Drawing.Size(82, 24);
-            this.btnCalculation.TabIndex = 82;
-            this.btnCalculation.Text = "Calculate 1";
-            this.btnCalculation.UseVisualStyleBackColor = true;
+            this.btnCalculation.Size = new System.Drawing.Size(82, 40);
+            this.btnCalculation.TabIndex = 83;
+            this.btnCalculation.Text = "Calculate";
+            this.btnCalculation.UseVisualStyleBackColor = false;
             this.btnCalculation.Click += new System.EventHandler(this.btnCalculation_Click);
             // 
-            // btnCalMode
+            // btnMaskSet
             // 
-            this.btnCalMode.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.btnCalMode.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCalMode.Location = new System.Drawing.Point(755, 206);
-            this.btnCalMode.Name = "btnCalMode";
-            this.btnCalMode.Size = new System.Drawing.Size(82, 24);
-            this.btnCalMode.TabIndex = 81;
-            this.btnCalMode.Text = "CAL Mode";
-            this.btnCalMode.UseVisualStyleBackColor = true;
+            this.btnMaskSet.BackColor = System.Drawing.Color.Tan;
+            this.btnMaskSet.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.btnMaskSet.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnMaskSet.Location = new System.Drawing.Point(680, 180);
+            this.btnMaskSet.Name = "btnMaskSet";
+            this.btnMaskSet.Size = new System.Drawing.Size(82, 40);
+            this.btnMaskSet.TabIndex = 82;
+            this.btnMaskSet.Text = "Mask Set";
+            this.btnMaskSet.UseVisualStyleBackColor = false;
+            this.btnMaskSet.Click += new System.EventHandler(this.btnMaskSet_Click);
             // 
             // btnPositionSave
             // 
             this.btnPositionSave.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btnPositionSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnPositionSave.Location = new System.Drawing.Point(345, 265);
+            this.btnPositionSave.Location = new System.Drawing.Point(396, 179);
             this.btnPositionSave.Name = "btnPositionSave";
-            this.btnPositionSave.Size = new System.Drawing.Size(82, 24);
+            this.btnPositionSave.Size = new System.Drawing.Size(82, 40);
             this.btnPositionSave.TabIndex = 80;
             this.btnPositionSave.Text = "Data Save";
             this.btnPositionSave.UseVisualStyleBackColor = true;
             this.btnPositionSave.Click += new System.EventHandler(this.btnPositionSave_Click);
-            // 
-            // btnConfirm
-            // 
-            this.btnConfirm.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.btnConfirm.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnConfirm.Location = new System.Drawing.Point(427, 240);
-            this.btnConfirm.Name = "btnConfirm";
-            this.btnConfirm.Size = new System.Drawing.Size(82, 24);
-            this.btnConfirm.TabIndex = 79;
-            this.btnConfirm.Text = "Confirm";
-            this.btnConfirm.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(588, 31);
+            this.label1.Location = new System.Drawing.Point(537, 31);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(25, 12);
             this.label1.TabIndex = 76;
@@ -629,7 +801,7 @@
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.ForeColor = System.Drawing.Color.White;
-            this.label18.Location = new System.Drawing.Point(588, 79);
+            this.label18.Location = new System.Drawing.Point(537, 79);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(25, 12);
             this.label18.TabIndex = 77;
@@ -640,7 +812,7 @@
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.White;
-            this.label16.Location = new System.Drawing.Point(588, 55);
+            this.label16.Location = new System.Drawing.Point(537, 55);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(25, 12);
             this.label16.TabIndex = 78;
@@ -655,7 +827,7 @@
             0,
             0,
             0});
-            this.numericUpDownMarkDistance.Location = new System.Drawing.Point(483, 27);
+            this.numericUpDownMarkDistance.Location = new System.Drawing.Point(432, 27);
             this.numericUpDownMarkDistance.Maximum = new decimal(new int[] {
             10000000,
             0,
@@ -671,24 +843,12 @@
             0,
             196608});
             // 
-            // btnSavePermitValue
-            // 
-            this.btnSavePermitValue.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.btnSavePermitValue.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSavePermitValue.Location = new System.Drawing.Point(509, 265);
-            this.btnSavePermitValue.Name = "btnSavePermitValue";
-            this.btnSavePermitValue.Size = new System.Drawing.Size(104, 24);
-            this.btnSavePermitValue.TabIndex = 74;
-            this.btnSavePermitValue.Text = "Save";
-            this.btnSavePermitValue.UseVisualStyleBackColor = true;
-            this.btnSavePermitValue.Visible = false;
-            // 
             // textBoxCetnerY
             // 
             this.textBoxCetnerY.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.textBoxCetnerY.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCetnerY.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCetnerY.Location = new System.Drawing.Point(483, 75);
+            this.textBoxCetnerY.Location = new System.Drawing.Point(432, 75);
             this.textBoxCetnerY.Name = "textBoxCetnerY";
             this.textBoxCetnerY.ReadOnly = true;
             this.textBoxCetnerY.Size = new System.Drawing.Size(104, 21);
@@ -701,7 +861,7 @@
             this.textBoxCetnerX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.textBoxCetnerX.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCetnerX.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCetnerX.Location = new System.Drawing.Point(483, 51);
+            this.textBoxCetnerX.Location = new System.Drawing.Point(432, 51);
             this.textBoxCetnerX.Name = "textBoxCetnerX";
             this.textBoxCetnerX.ReadOnly = true;
             this.textBoxCetnerX.Size = new System.Drawing.Size(104, 21);
@@ -714,7 +874,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(588, 126);
+            this.label2.Location = new System.Drawing.Point(537, 126);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(25, 12);
             this.label2.TabIndex = 71;
@@ -725,7 +885,7 @@
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(588, 121);
+            this.label10.Location = new System.Drawing.Point(537, 104);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(25, 12);
             this.label10.TabIndex = 71;
@@ -736,7 +896,7 @@
             this.textBoxCurrentPosV.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.textBoxCurrentPosV.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCurrentPosV.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCurrentPosV.Location = new System.Drawing.Point(483, 122);
+            this.textBoxCurrentPosV.Location = new System.Drawing.Point(432, 122);
             this.textBoxCurrentPosV.Name = "textBoxCurrentPosV";
             this.textBoxCurrentPosV.ReadOnly = true;
             this.textBoxCurrentPosV.Size = new System.Drawing.Size(104, 21);
@@ -749,7 +909,7 @@
             this.textBoxCurrentPosU.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.textBoxCurrentPosU.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxCurrentPosU.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.textBoxCurrentPosU.Location = new System.Drawing.Point(483, 99);
+            this.textBoxCurrentPosU.Location = new System.Drawing.Point(432, 99);
             this.textBoxCurrentPosU.Name = "textBoxCurrentPosU";
             this.textBoxCurrentPosU.ReadOnly = true;
             this.textBoxCurrentPosU.Size = new System.Drawing.Size(104, 21);
@@ -763,7 +923,7 @@
             this.label11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label11.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label11.ForeColor = System.Drawing.Color.White;
-            this.label11.Location = new System.Drawing.Point(345, 121);
+            this.label11.Location = new System.Drawing.Point(294, 121);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(132, 22);
             this.label11.TabIndex = 65;
@@ -776,7 +936,7 @@
             this.label17.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label17.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label17.ForeColor = System.Drawing.Color.White;
-            this.label17.Location = new System.Drawing.Point(345, 73);
+            this.label17.Location = new System.Drawing.Point(294, 73);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(132, 22);
             this.label17.TabIndex = 58;
@@ -789,7 +949,7 @@
             this.label15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label15.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label15.ForeColor = System.Drawing.Color.White;
-            this.label15.Location = new System.Drawing.Point(345, 49);
+            this.label15.Location = new System.Drawing.Point(294, 49);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(132, 22);
             this.label15.TabIndex = 59;
@@ -802,7 +962,7 @@
             this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label3.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(345, 97);
+            this.label3.Location = new System.Drawing.Point(294, 97);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(132, 22);
             this.label3.TabIndex = 60;
@@ -815,7 +975,7 @@
             this.label13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label13.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(345, 25);
+            this.label13.Location = new System.Drawing.Point(294, 25);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(132, 22);
             this.label13.TabIndex = 56;
@@ -828,7 +988,7 @@
             this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label8.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(345, 3);
+            this.label8.Location = new System.Drawing.Point(294, 3);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(268, 22);
             this.label8.TabIndex = 55;
@@ -857,7 +1017,7 @@
             0,
             0,
             262144});
-            this.numericUpDownTOffsetValue.Location = new System.Drawing.Point(141, 279);
+            this.numericUpDownTOffsetValue.Location = new System.Drawing.Point(717, 144);
             this.numericUpDownTOffsetValue.Maximum = new decimal(new int[] {
             20,
             0,
@@ -887,7 +1047,7 @@
             0,
             0,
             262144});
-            this.numericUpDownXOffsetValue.Location = new System.Drawing.Point(141, 233);
+            this.numericUpDownXOffsetValue.Location = new System.Drawing.Point(717, 98);
             this.numericUpDownXOffsetValue.Maximum = new decimal(new int[] {
             20,
             0,
@@ -914,7 +1074,7 @@
             this.label19.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label19.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label19.ForeColor = System.Drawing.Color.White;
-            this.label19.Location = new System.Drawing.Point(3, 278);
+            this.label19.Location = new System.Drawing.Point(579, 143);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(132, 22);
             this.label19.TabIndex = 49;
@@ -927,7 +1087,7 @@
             this.label20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label20.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label20.ForeColor = System.Drawing.Color.White;
-            this.label20.Location = new System.Drawing.Point(3, 232);
+            this.label20.Location = new System.Drawing.Point(579, 97);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(132, 22);
             this.label20.TabIndex = 48;
@@ -943,7 +1103,7 @@
             0,
             0,
             262144});
-            this.numericUpDownTPermitValue.Location = new System.Drawing.Point(141, 211);
+            this.numericUpDownTPermitValue.Location = new System.Drawing.Point(141, 199);
             this.numericUpDownTPermitValue.Name = "numericUpDownTPermitValue";
             this.numericUpDownTPermitValue.Size = new System.Drawing.Size(104, 20);
             this.numericUpDownTPermitValue.TabIndex = 44;
@@ -963,7 +1123,7 @@
             0,
             0,
             262144});
-            this.numericUpDownXPermitValue.Location = new System.Drawing.Point(141, 166);
+            this.numericUpDownXPermitValue.Location = new System.Drawing.Point(141, 154);
             this.numericUpDownXPermitValue.Maximum = new decimal(new int[] {
             5,
             0,
@@ -985,7 +1145,7 @@
             this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label5.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(3, 209);
+            this.label5.Location = new System.Drawing.Point(3, 197);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(132, 22);
             this.label5.TabIndex = 43;
@@ -998,7 +1158,7 @@
             this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label4.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(3, 163);
+            this.label4.Location = new System.Drawing.Point(3, 151);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(132, 22);
             this.label4.TabIndex = 42;
@@ -1010,7 +1170,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(251, 216);
+            this.label7.Location = new System.Drawing.Point(246, 204);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(15, 12);
             this.label7.TabIndex = 46;
@@ -1021,7 +1181,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(251, 169);
+            this.label6.Location = new System.Drawing.Point(246, 157);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(25, 12);
             this.label6.TabIndex = 47;
@@ -1032,7 +1192,7 @@
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.Color.White;
-            this.label21.Location = new System.Drawing.Point(251, 284);
+            this.label21.Location = new System.Drawing.Point(822, 149);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(15, 12);
             this.label21.TabIndex = 52;
@@ -1043,7 +1203,7 @@
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("나눔바른고딕", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.ForeColor = System.Drawing.Color.White;
-            this.label22.Location = new System.Drawing.Point(251, 237);
+            this.label22.Location = new System.Drawing.Point(822, 102);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(25, 12);
             this.label22.TabIndex = 53;
@@ -1052,7 +1212,7 @@
             // ResultConditionAlign
             // 
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(83)))), ((int)(((byte)(83)))));
-            this.ClientSize = new System.Drawing.Size(899, 472);
+            this.ClientSize = new System.Drawing.Size(850, 257);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.labelTitle);
             this.Font = new System.Drawing.Font("나눔바른고딕", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1061,6 +1221,9 @@
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.ucResultConditionAlign_KeyDown);
             this.panelMain.ResumeLayout(false);
             this.panelMain.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointW)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointV)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPinJointU)).EndInit();
@@ -1090,17 +1253,14 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Button btnCancel;
-        private System.Windows.Forms.Button btnCalculation2;
-        private System.Windows.Forms.Button btnCalculation;
-        private System.Windows.Forms.Button btnCalMode;
-        private System.Windows.Forms.Button btnPositionSave;
         private System.Windows.Forms.Button btnConfirm;
+        private System.Windows.Forms.Button btnCalculation;
+        private System.Windows.Forms.Button btnMaskSet;
+        private System.Windows.Forms.Button btnPositionSave;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.NumericUpDown numericUpDownMarkDistance;
-        private System.Windows.Forms.Button btnSavePermitValue;
         private System.Windows.Forms.TextBox textBoxCetnerY;
         private System.Windows.Forms.TextBox textBoxCetnerX;
         private System.Windows.Forms.Label label10;
@@ -1136,5 +1296,15 @@
         private System.Windows.Forms.NumericUpDown numericUpDownRadius;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.NumericUpDown numericUpDown3;
+        private System.Windows.Forms.Label label39;
+        private System.Windows.Forms.Label label40;
+        private System.Windows.Forms.Label label41;
+        private System.Windows.Forms.Label label42;
+        private System.Windows.Forms.Label label36;
     }
 }

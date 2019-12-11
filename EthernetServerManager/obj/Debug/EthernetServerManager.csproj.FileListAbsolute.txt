@@ -145,3 +145,16 @@ D:\VisionProgram\KPVisionInspection2020\EthernetServerManager\obj\Debug\Ethernet
 D:\VisionProgram\KPVisionInspection2020\EthernetServerManager\obj\Debug\EthernetServerManager.csproj.GenerateResource.Cache
 D:\VisionProgram\KPVisionInspection2020\EthernetServerManager\obj\Debug\EthernetServerManager.dll
 D:\VisionProgram\KPVisionInspection2020\EthernetServerManager\obj\Debug\EthernetServerManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\EthernetServerManager.dll
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\EthernetServerManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\CustomMsgBoxManager.dll
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\LogMessageManager.dll
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\log4net.dll
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\bin\Debug\CustomMsgBoxManager.pdb
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\obj\Debug\EthernetServerManager.csprojResolveAssemblyReference.cache
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\obj\Debug\EthernetServerManager.EthernetWindow.resources
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\obj\Debug\EthernetServerManager.Properties.Resources.resources
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\obj\Debug\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\obj\Debug\EthernetServerManager.dll
+D:\Project\2020\[GIT]Einspanner2020\EthernetServerManager\obj\Debug\EthernetServerManager.pdb

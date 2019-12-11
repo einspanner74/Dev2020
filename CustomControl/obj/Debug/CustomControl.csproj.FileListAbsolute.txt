@@ -413,3 +413,11 @@ C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\Cu
 C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
 C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.dll
 C:\Zoom\Company\Software\[LAT]\KPVisionInspection2020\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\obj\Debug\CustomControl.GridViewManager.resources
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\obj\Debug\CustomControl.ImageButton.resources
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\2020\[GIT]Einspanner2020\CustomControl\obj\Debug\CustomControl.pdb

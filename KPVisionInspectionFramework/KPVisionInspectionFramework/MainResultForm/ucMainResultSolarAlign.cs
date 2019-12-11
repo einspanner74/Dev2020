@@ -25,6 +25,9 @@ namespace KPVisionInspectionFramework
         private double[] FindPointX;
         private double[] FindPointY;
 
+        public double FindMaskPointX;
+        public double FindMaskPointY;
+
         TextBox[] TextBoxCamOriginX;
         TextBox[] TextBoxCamOriginY;
 
@@ -40,6 +43,9 @@ namespace KPVisionInspectionFramework
 
         public delegate void ResultWndHandler(object _Command);
         public event ResultWndHandler SendResultWndEvent;
+
+        public delegate void GetMaskPositionHandler(int _StageID);
+        public event GetMaskPositionHandler GetMaskPositionEvent;
 
         private Thread ThreadInspCompleteCheck;
         private bool IsThreadInspCompleteCheckExit = false;
@@ -88,9 +94,15 @@ namespace KPVisionInspectionFramework
             IsThreadInspCompleteCheckExit = false;
             IsThreadInspCompleteCheckTrigger = false;
             ThreadInspCompleteCheck.Start();
+        }
 
+        public void ResultConditionInitialize()
+        {
+            //LDH, 2019.12.05, Event 지정 순서때문에 Initialize 분리함
             //LJH, 2019.11.01, ResultCondition 설정
             ResConAlignWnd.Initialize(/*초기화값*/);
+            ResConAlignWnd.MaskAlignEvent += new ResultConditionAlign.MaskAlignHandler(SendResultWndEvent);
+            ResConAlignWnd.GetMaskPositionEvent += new ResultConditionAlign.GetMaskPositionHandler(GetMaskPositionEvent);
         }
 
         public void SetLastRecipeName(string[] _LastRecipeName)
@@ -155,6 +167,20 @@ namespace KPVisionInspectionFramework
                 ControlInvoke.GradientLabelText(_GradientLabelResult, "NG", Color.White);
                 ControlInvoke.GradientLabelColor(_GradientLabelResult, Color.Maroon, Color.FromArgb(49, 0, 0));
             }
+        }
+
+        public double[] GetMaskPosition()
+        {
+            double[] _MaskPosition = new double[2];
+            _MaskPosition[0] = FindMaskPointX;
+            _MaskPosition[1] = FindMaskPointY;
+
+            return _MaskPosition;
+        }
+
+        public void SetMaskPosition(double[] _MaskPosition)
+        {
+
         }
 
         private void GetAlignData(AlignResultData _AlignResultData, ref double _SendAlignDataX, ref double _SendAlignDataY, ref double _SendAlignDataT)
@@ -243,7 +269,7 @@ namespace KPVisionInspectionFramework
             {
                 if (_ResultParam.ID != 4 && _ResultParam.ID != 5)
                 {
-                    int _CamNum;                    
+                    int _CamNum;
 
                     if (_ResultParam.ID < 2)
                     {
@@ -290,7 +316,7 @@ namespace KPVisionInspectionFramework
                         {
                             FindPointX[_CamNum] = _ResultData.IntersectionX;
                             FindPointY[_CamNum] = _ResultData.IntersectionY;
-                            
+
                             ControlInvoke.TextBoxText(TextBoxCamOriginX[_CamNum], FindPointX[_CamNum].ToString("F3"));
                             ControlInvoke.TextBoxText(TextBoxCamOriginY[_CamNum], FindPointY[_CamNum].ToString("F3"));
 
@@ -321,6 +347,20 @@ namespace KPVisionInspectionFramework
                         SetGradientLabelResult(gradientLabelFindResult, LastResultFlag);
 
                         IsThreadInspCompleteCheckTrigger = true;
+                    }
+                }
+                else
+                {
+                    if (_ResultParam.SendResultList.Length == 1)
+                    {
+                        var _ResultData = _ResultParam.SendResultList[0] as SendMeasureResult;
+
+                        if (_ResultData != null)
+                        {
+                            FindMaskPointX = _ResultData.PointX;
+                            FindMaskPointY = _ResultData.PointY;
+                            //ResConAlignWnd.SetMaskPosition(_ResultData.PointX, _ResultData.PointY); 
+                        }
                     }
                 }
             }

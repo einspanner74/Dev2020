@@ -81,6 +81,9 @@ namespace KPVisionInspectionFramework
                     MainResultSolarAlignWnd[iLoopCount] = new ucMainResultSolarAlign(LastRecipeName, iLoopCount);
                     MainResultSolarAlignWnd[iLoopCount].PLCResultEvent += new ucMainResultSolarAlign.PLCResultHandler(SendPLCResultEvent);
                     MainResultSolarAlignWnd[iLoopCount].SendResultWndEvent += new ucMainResultSolarAlign.ResultWndHandler(SendResultWndEvent);
+                    MainResultSolarAlignWnd[iLoopCount].GetMaskPositionEvent += new ucMainResultSolarAlign.GetMaskPositionHandler(GetMaskPosition);
+                    MainResultSolarAlignWnd[iLoopCount].ResultConditionInitialize();
+
                     panelMain.Controls.Add(MainResultSolarAlignWnd[iLoopCount]);
                     if(iLoopCount == 0) MainResultSolarAlignWnd[iLoopCount].Location = new Point(2, 2);
                     else                MainResultSolarAlignWnd[iLoopCount].Location = new Point(2, 457);
@@ -359,6 +362,14 @@ namespace KPVisionInspectionFramework
             if (ProjectType == eProjectType.NAVIEN) _Result = MainResultNavienWnd.GetBarcodeStatus();
 
             return _Result;
+        }
+
+        //LDH, 2019.12.09, [SolarAlign] Mask Position용 함수
+        private void GetMaskPosition(int _StageID)
+        {
+            double[] _MaskPosition = new double[2];
+
+            _MaskPosition = MainResultSolarAlignWnd[_StageID - 1].GetMaskPosition();
         }
     }
 }
